@@ -1,0 +1,435 @@
+time_start,time_end,model,launch_place,target,launched,destroyed,source,duration
+2025-01-18 20:00:00,2025-01-19 09:00:00,Shahed-136/131,Bryansk oblast and Oryol oblast and Millerovo,Ukraine,61,43,kpszsu/posts/pfbid0meYNAsX4voALE4SXunVpzKTwzrJL1YmQ5qPauxCwX7qANMU1ibKddPPQFXKWdJy8l,780.0
+2025-01-17 19:00:00,2025-01-18 08:00:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Millerovo,Ukraine,39,24,kpszsu/posts/pfbid0Rpzfu7u9ERu4o49Gm12eqSogKvZys8dXpHM2zkP68sKfoyKWpRafvatp85disN4cl,780.0
+2025-01-16 19:00:00,2025-01-17 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,50,33,kpszsu/posts/pfbid0Gvye9Wn2gj8RPiiGaTQFGRas9YguvNZLLZCCwaXt6t6aFJCbpFZs5rhV4RAQ5fENl,840.0
+2025-01-16 19:00:00,2025-01-17 09:00:00,Iskander-M/KN-23,Bryansk oblast and Voronezh oblast,Kyiv oblast,4,2,kpszsu/posts/pfbid0Rpzfu7u9ERu4o49Gm12eqSogKvZys8dXpHM2zkP68sKfoyKWpRafvatp85disN4cl,840.0
+2025-01-16 19:00:00,2025-01-17 09:00:00,Iskander-M,Rostov oblast,Ukraine,2,0,kpszsu/posts/pfbid0Gvye9Wn2gj8RPiiGaTQFGRas9YguvNZLLZCCwaXt6t6aFJCbpFZs5rhV4RAQ5fENl,840.0
+2025-01-15 20:00:00,2025-01-16 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,55,34,kpszsu/posts/pfbid0tPwzQHvvr63PbehDshED2WNV2vm9VTcS6HrdugBWNQXPGKSkyjC4cjXuBgBhrsYTl,780.0
+2025-01-15 06:00:00,2025-01-15 08:00:00,X-59/X-69,Belgorod oblast,Ukraine,4,4,kpszsu/posts/pfbid0kLxxfDQRTeUt5wQT5eahJVkW1fbMfXosjkCKm273enBvr283GjDCfEw5YrZcsx1Pl,120.0
+2025-01-15 06:00:00,2025-01-15 08:00:00,X-22/X-32,Tula oblast,Ukraine,7,0,kpszsu/posts/pfbid0kLxxfDQRTeUt5wQT5eahJVkW1fbMfXosjkCKm273enBvr283GjDCfEw5YrZcsx1Pl,120.0
+2025-01-15 06:00:00,2025-01-15 08:00:00,X-101/X-555,Volgograd oblast,Ukraine,27,23,kpszsu/posts/pfbid0kLxxfDQRTeUt5wQT5eahJVkW1fbMfXosjkCKm273enBvr283GjDCfEw5YrZcsx1Pl,120.0
+2025-01-15 06:00:00,2025-01-15 08:00:00,Kalibr,Black Sea,Ukraine,4,3,kpszsu/posts/pfbid0kLxxfDQRTeUt5wQT5eahJVkW1fbMfXosjkCKm273enBvr283GjDCfEw5YrZcsx1Pl,120.0
+2025-01-15 06:00:00,2025-01-15 08:00:00,Iskander-M/KN-23,Belgorod oblast,Ukraine,1,0,kpszsu/posts/pfbid0kLxxfDQRTeUt5wQT5eahJVkW1fbMfXosjkCKm273enBvr283GjDCfEw5YrZcsx1Pl,120.0
+2025-01-14 21:00:00,2025-01-15 02:30:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,74,47,kpszsu/posts/pfbid0kLxxfDQRTeUt5wQT5eahJVkW1fbMfXosjkCKm273enBvr283GjDCfEw5YrZcsx1Pl,330.0
+2025-01-13 18:30:00,2025-01-14 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Millerovo,Ukraine,80,58,kpszsu/posts/pfbid0wMxD9KSTqFSxsapj5Bbn2fWqP5cn7xUevFfB4gaADZZSH4qQ1csT1zRPdU4ZZy8Kl,870.0
+2025-01-12 19:00:00,2025-01-13 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,110,78,kpszsu/posts/pfbid0wMxD9KSTqFSxsapj5Bbn2fWqP5cn7xUevFfB4gaADZZSH4qQ1csT1zRPdU4ZZy8Kl,840.0
+2025-01-11 18:00:00,2025-01-12 09:00:00,Shahed-136/131,Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,94,60,kpszsu/posts/pfbid0pwDcCNtZU2ESoYHiMchPxUzYAb7eAd7D4UqzQAab7aE8V1tguK5yoTm1pJTfjE1Ql,900.0
+2025-01-10 20:00:00,2025-01-11 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,74,47,kpszsu/posts/pfbid0VYMVJu7uG61NphEFoFiPacNJ9mWTUd9wiAY2Yt3xuwKif9vM2TiV6JDrJD8ttLUGl,780.0
+2025-01-09 20:30:00,2025-01-10 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,72,33,kpszsu/posts/pfbid027eZo6ndwzjR7LMFA4YAee12bcBBzzT1W2XVcQHQ6r4HumBLjxhfuMbPMDY9ZdWqol,750.0
+2025-01-08 19:30:00,2025-01-09 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,70,46,kpszsu/posts/pfbid02VokUWYifDBFHawji5a6SuVJEAz6VHadga2hRD7118SkQjh9hiKxQGqFZEGKk3QWpl,810.0
+2025-01-07 19:30:00,2025-01-08 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,64,41,kpszsu/posts/pfbid0242E5Wk6iSMrG8DVrSzdKMKy6DdPqC4auVtNNeqqN8fwP2GL6qAMLLTAp4mCfbEi2l,810.0
+2025-01-06 19:30:00,2025-01-07 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Millerovo,Ukraine,38,28,kpszsu/posts/pfbid0FGDBTRVCZAWdPcY4E8G4XGzdzpyLp9uWKjUX7U6eAynw9oFNa79SkExgmHSd6Z4Xl,810.0
+2025-01-05 18:00:00,2025-01-06 09:00:00,X-59,south,Mykolaiv oblast,2,2,kpszsu/posts/pfbid0FGDBTRVCZAWdPcY4E8G4XGzdzpyLp9uWKjUX7U6eAynw9oFNa79SkExgmHSd6Z4Xl,900.0
+2025-01-05 18:00:00,2025-01-06 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,128,79,kpszsu/posts/pfbid0FGDBTRVCZAWdPcY4E8G4XGzdzpyLp9uWKjUX7U6eAynw9oFNa79SkExgmHSd6Z4Xl,900.0
+2025-01-04 19:00:00,2025-01-05 09:00:00,Shahed-136/131,Bryansk oblast and Oryol oblast and Millerovo,Ukraine,103,61,kpszsu/posts/pfbid0ZvvH9SHkaBS1MqQtADhSGhrkxA8jDfNHb93RAuAd5N4bAxbNmrhwiMb4QXEqXmm9l,840.0
+2025-01-04 11:00:00,2025-01-04 20:00:00,Shahed-136/131,north-east,Ukraine,30,14,kpszsu/posts/pfbid0KxuctFRLrabRvt86jh7tyWS22EgHXrQdQ48K8g9gfG8gxvwMrhNfMctEkwrcvbaxl,540.0
+2025-01-03 19:00:00,2025-01-04 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,81,34,kpszsu/posts/pfbid0CMonsCmRVNxqGPbW6zm3v79NZsX7LHNpwfjiCfBYuLLtVfuMNvRdp3kGh4y66k7kl,840.0
+2025-01-03 12:00:00,2025-01-03 20:00:00,X-59/X-69,,Dnipropetrovsk oblast,3,3,kpszsu/posts/pfbid02v1KGGb6TjgiYbVUoMCWPuAVZYnHrgdwpjhK2Pfn9Vy9wUCfChYk538Cwiycum1C6l,480.0
+2025-01-03 12:00:00,2025-01-03 20:00:00,Shahed-136/131,north-east,Ukraine,32,13,kpszsu/posts/pfbid02v1KGGb6TjgiYbVUoMCWPuAVZYnHrgdwpjhK2Pfn9Vy9wUCfChYk538Cwiycum1C6l,480.0
+2025-01-03 12:00:00,2025-01-03 20:00:00,Iskander-M,,Chernihiv oblast,3,0,kpszsu/posts/pfbid02v1KGGb6TjgiYbVUoMCWPuAVZYnHrgdwpjhK2Pfn9Vy9wUCfChYk538Cwiycum1C6l,480.0
+2025-01-03 12:00:00,2025-01-03 20:00:00,C-300,,Kursk oblast,5,0,kpszsu/posts/pfbid02v1KGGb6TjgiYbVUoMCWPuAVZYnHrgdwpjhK2Pfn9Vy9wUCfChYk538Cwiycum1C6l,480.0
+2025-01-02 21:00:00,2025-01-03 09:00:00,Shahed-136/131,Bryansk oblast and Oryol oblast and Millerovo,Ukraine,93,60,kpszsu/posts/pfbid02BLBEx69DLAQRsjFP3TSSyUBHoLHv2msdXARrQkshi1PWf3kFgy1qdmDKuJt8JCgBl,720.0
+2025-01-01 19:00:00,2025-01-02 08:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,72,47,kpszsu/posts/pfbid036pj6BD8PhjMR1vZGzTpLfD6u2nDv6HbcFrsK1DMxyEuJhVdHP3mLq8bkw1obUZ83l,810.0
+2024-12-31 20:30:00,2025-01-01 09:30:00,Shahed-136/131,Primorsko-Akhtarsk and Crimea and Bryansk oblast and Oryol oblast,Ukraine,111,63,kpszsu/posts/pfbid03UZ2VK1RvcTjwT1YQQsW4oUumX7X7FGxLjhzvLVriXCybaYoeh9B2tw24cjWS9unl,780.0
+2024-12-30 20:30:00,2024-12-31 12:00:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Millerovo,Ukraine,40,16,kpszsu/posts/pfbid02WWNUFtAWedd9gWZjARmjQM2Pj42ELmTktArSXxXJ5LyBzuz4C9Q1vJFsd5F2QsWwl,930.0
+2024-12-30 07:20:00,2024-12-31 08:20:00,X-69,Belgorod oblast,Kyiv oblast and Sumy oblast,6,5,kpszsu/posts/pfbid02WWNUFtAWedd9gWZjARmjQM2Pj42ELmTktArSXxXJ5LyBzuz4C9Q1vJFsd5F2QsWwl,1500.0
+2024-12-30 07:20:00,2024-12-31 08:20:00,X-47 Kinzhal,Tula oblast,Kyiv oblast and Sumy oblast,1,1,kpszsu/posts/pfbid02WWNUFtAWedd9gWZjARmjQM2Pj42ELmTktArSXxXJ5LyBzuz4C9Q1vJFsd5F2QsWwl,1500.0
+2024-12-30 07:20:00,2024-12-31 08:20:00,X-22,Tula oblast,Kyiv oblast and Sumy oblast,8,0,kpszsu/posts/pfbid02WWNUFtAWedd9gWZjARmjQM2Pj42ELmTktArSXxXJ5LyBzuz4C9Q1vJFsd5F2QsWwl,1500.0
+2024-12-31 02:50:00,2024-12-31 03:40:00,Iskander-M/KN-23,Voronezh oblast,Kyiv oblast and Sumy oblast,6,0,kpszsu/posts/pfbid02WWNUFtAWedd9gWZjARmjQM2Pj42ELmTktArSXxXJ5LyBzuz4C9Q1vJFsd5F2QsWwl,50.0
+2024-12-28 19:00:00,2024-12-29 09:00:00,Shahed-136/131,Crimea,Mykolaiv oblast,10,9,kpszsu/posts/pfbid09T5GxCapSoyrWpHzQ4fxaWa7qxdR8R5hLRJ38RqZgZT5KU63e8HsGpZ2kyfnSh4ul,840.0
+2024-12-28 19:00:00,2024-12-29 09:00:00,C-300/C-400,Belgorod oblast,Sumy oblast and Kursk oblast,6,0,kpszsu/posts/pfbid09T5GxCapSoyrWpHzQ4fxaWa7qxdR8R5hLRJ38RqZgZT5KU63e8HsGpZ2kyfnSh4ul,840.0
+2024-12-27 23:00:00,2024-12-28 08:30:00,Shahed-136/131,Primorsko-Akhtarsk,Mykolaiv oblast,16,15,kpszsu/posts/pfbid02A6kTgRnhd2yypHhWKkKbVKK2jmSw3MPjC19wPe4HijTPRTEipnDC1dFcDCCbQdCal,570.0
+2024-12-26 19:00:00,2024-12-27 09:00:00,Shahed-136/131,Bryansk oblast and Oryol oblast and Millerovo,Ukraine,24,13,kpszsu/posts/pfbid02A6kTgRnhd2yypHhWKkKbVKK2jmSw3MPjC19wPe4HijTPRTEipnDC1dFcDCCbQdCal,840.0
+2024-12-26 19:00:00,2024-12-27 09:00:00,Iskander-M,Kursk oblast and Voronezh oblast,Ukraine,2,0,kpszsu/posts/pfbid02A6kTgRnhd2yypHhWKkKbVKK2jmSw3MPjC19wPe4HijTPRTEipnDC1dFcDCCbQdCal,840.0
+2024-12-25 19:00:00,2024-12-26 08:30:00,Shahed-136/131,Oryol oblast and Millerovo,Ukraine,31,20,kpszsu/posts/pfbid02mrsH32SDY8vSxGiRAzBCGgg68yWDMNWVicKVvEUaMDAD3HAsQ9ucx7jDHxtWwo1vl,810.0
+2024-12-24 14:00:00,2024-12-25 12:00:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,106,54,kpszsu/posts/pfbid0hXuMPHKBjgZX8pawMbQ2qVGYE6XQHTgavDzx2Zuwv2MKtB1tNMKxmG7Vefx95WBHl,1320.0
+2024-12-25 05:00:00,2024-12-25 10:00:00,X-59/X-69,Belgorod oblast,Ukraine,4,4,kpszsu/posts/pfbid0hXuMPHKBjgZX8pawMbQ2qVGYE6XQHTgavDzx2Zuwv2MKtB1tNMKxmG7Vefx95WBHl,300.0
+2024-12-25 05:00:00,2024-12-25 10:00:00,X-101/X-555 and Kalibr,,Ukraine,62,55,kpszsu/posts/pfbid02YK2sa7Z1E1QFpPfQVTMhRjj4QC2YFbmjYHbo3mtDjZVGw5PWbsP37mUizaKChkrrl,300.0
+2024-12-25 05:00:00,2024-12-25 10:00:00,KN-23,Voronezh oblast,Ukraine,2,0,kpszsu/posts/pfbid0hXuMPHKBjgZX8pawMbQ2qVGYE6XQHTgavDzx2Zuwv2MKtB1tNMKxmG7Vefx95WBHl,300.0
+2024-12-25 05:00:00,2024-12-25 10:00:00,C-300/C-400,Belgorod oblast,Ukraine,10,0,kpszsu/posts/pfbid0hXuMPHKBjgZX8pawMbQ2qVGYE6XQHTgavDzx2Zuwv2MKtB1tNMKxmG7Vefx95WBHl,300.0
+2024-12-23 22:00:00,2024-12-24 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Millerovo,Ukraine,60,36,kpszsu/posts/pfbid02AFhjtsUiYqB5rzTnXS7C7xog7gDckaXLQ6TmmikPJKip9YytD2WAu1YgK6TPkrPBl,660.0
+2024-12-22 22:00:00,2024-12-23 09:00:00,Shahed-136/131,Bryansk oblast and Oryol oblast,Ukraine,72,47,kpszsu/posts/pfbid02DqCfnhqQcMrqwKXcnm2ruQdYKAwsh683JKnYqK6m9PX3Ah3n2JjUsa6R6EVfSvU8l,660.0
+2024-12-21 19:00:00,2024-12-22 10:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo and Berdiansk,Ukraine,103,52,kpszsu/posts/pfbid02GWArZ4AW8M1AiHKJG2tVn8Vwp6nL9k9qPnfaRkbp6ThPT9LKarUvoix1yh98n1cul,900.0
+2024-12-20 19:00:00,2024-12-21 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo and Berdiansk,Ukraine,113,57,kpszsu/posts/pfbid02ZRCprPJsqKF7iYPeva1ecZRR17dfs3pmweb1px4nm6UgY244h9hPSCh2hZzKcaZdl,840.0
+2024-12-20 19:00:00,2024-12-21 09:00:00,C-400,Donetsk oblast,Poltava oblast,1,0,kpszsu/posts/pfbid02ZRCprPJsqKF7iYPeva1ecZRR17dfs3pmweb1px4nm6UgY244h9hPSCh2hZzKcaZdl,840.0
+2024-12-20 07:00:00,2024-12-20 09:30:00,Iskander-M/KN-23,Bryansk oblast and Voronezh oblast,Kyiv,5,5,kpszsu/posts/pfbid0mwLtb9SXzcUpPto6WVuvbA9k2CFUcXTRYJtywJJKYDQGUPVJzpciR1H3SjP9VogWl,150.0
+2024-12-19 19:00:00,2024-12-20 09:30:00,X-59/X-69,Kursk oblast,Ukraine,1,0,kpszsu/posts/pfbid0mwLtb9SXzcUpPto6WVuvbA9k2CFUcXTRYJtywJJKYDQGUPVJzpciR1H3SjP9VogWl,870.0
+2024-12-19 19:00:00,2024-12-20 09:30:00,Shahed-136/131,Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,65,40,kpszsu/posts/pfbid0mwLtb9SXzcUpPto6WVuvbA9k2CFUcXTRYJtywJJKYDQGUPVJzpciR1H3SjP9VogWl,870.0
+2024-12-19 19:00:00,2024-12-20 09:30:00,Iskander-M,Rostov oblast,Ukraine,1,0,kpszsu/posts/pfbid0mwLtb9SXzcUpPto6WVuvbA9k2CFUcXTRYJtywJJKYDQGUPVJzpciR1H3SjP9VogWl,870.0
+2024-12-18 20:00:00,2024-12-19 08:30:00,X-59/X-69,Kursk oblast,Ukraine,1,0,kpszsu/posts/pfbid0ykdtFemDfxyFbWSp55MwwesWn6Rqj9aUke7j6avcncSGh6KiasWn8zvauBnppebfl,750.0
+2024-12-18 20:00:00,2024-12-19 08:30:00,Shahed-136/131,Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,85,45,kpszsu/posts/pfbid0ykdtFemDfxyFbWSp55MwwesWn6Rqj9aUke7j6avcncSGh6KiasWn8zvauBnppebfl,750.0
+2024-12-18 20:00:00,2024-12-19 08:30:00,Iskander-M,Crimea and Rostov oblast,Ukraine,2,0,kpszsu/posts/pfbid0ykdtFemDfxyFbWSp55MwwesWn6Rqj9aUke7j6avcncSGh6KiasWn8zvauBnppebfl,750.0
+2024-12-17 19:00:00,2024-12-18 09:00:00,Shahed-136/131,Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,81,51,kpszsu/posts/pfbid031yB4c2dPaEbD9VS3uRoMgMQsRbPzL6T47gsyuA6GFLkLz1rXdm2BR3gLxXvDMy43l,840.0
+2024-12-16 23:00:00,2024-12-17 12:00:00,Shahed-136/131,Bryansk oblast and Oryol oblast,Ukraine,31,20,kpszsu/posts/pfbid034xbj4dWPzEuBHWEoM3wQDdu3uQfkbYXULadEVWk6R4SUMMw2HgEn33qvbuL7UYBnl,780.0
+2024-12-16 01:00:00,2024-12-16 08:30:00,Shahed-136/131,Bryansk oblast and Oryol oblast,Ukraine,49,27,kpszsu/posts/pfbid0ob1Tt37QNNuPEeeyb6EhXjBmfgKBEarUkn4CoSjWDSFz9aKxGEDeZ9BeWPVfZ2ePl,450.0
+2024-12-14 19:00:00,2024-12-15 08:30:00,Shahed-136/131,Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,108,56,kpszsu/posts/pfbid02HZKn1S4PTdUZGmN8LB12imWDN1wyRXeJriWX6iUXsZ3xFKrkg6YzFMZZtDSLKeMvl,810.0
+2024-12-14 19:00:00,2024-12-15 08:30:00,C-300,,Ukraine,1,0,kpszsu/posts/pfbid02HZKn1S4PTdUZGmN8LB12imWDN1wyRXeJriWX6iUXsZ3xFKrkg6YzFMZZtDSLKeMvl,810.0
+2024-12-13 19:00:00,2024-12-14 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,132,58,kpszsu/posts/pfbid02x8PDweQkLrXt2X96AjDBU8rph7t91sMTPpRAZUZkp1hVPDzAe5xyCFupck7QVyMHl,840.0
+2024-12-13 07:00:00,2024-12-13 10:00:00,X-59/X-69,Luhansk oblast,Ukraine,1,0,kpszsu/posts/pfbid0Xx8LCcWhWRb9y57XxizT4761SKXF65M2M2yT9NLqrEs63EMQtDwoGJ1RDFa4wFMel,180.0
+2024-12-13 07:00:00,2024-12-13 10:00:00,X-47 Kinzhal,Tambov oblast,Ukraine,4,0,kpszsu/posts/pfbid0Xx8LCcWhWRb9y57XxizT4761SKXF65M2M2yT9NLqrEs63EMQtDwoGJ1RDFa4wFMel,180.0
+2024-12-13 07:00:00,2024-12-13 10:00:00,X-101/X-555 and Kalibr and Iskander-K,Volgograd oblast and Black Sea and Voronezh oblast and Rostov oblast,Ukraine,86,80,kpszsu/posts/pfbid0Xx8LCcWhWRb9y57XxizT4761SKXF65M2M2yT9NLqrEs63EMQtDwoGJ1RDFa4wFMel,180.0
+2024-12-13 07:00:00,2024-12-13 10:00:00,Iskander-M,Bryansk oblast,Ukraine,2,1,kpszsu/posts/pfbid0Xx8LCcWhWRb9y57XxizT4761SKXF65M2M2yT9NLqrEs63EMQtDwoGJ1RDFa4wFMel,180.0
+2024-12-12 18:00:00,2024-12-13 05:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,193,80,kpszsu/posts/pfbid0Xx8LCcWhWRb9y57XxizT4761SKXF65M2M2yT9NLqrEs63EMQtDwoGJ1RDFa4wFMel,660.0
+2024-12-08 19:30:00,2024-12-09 08:00:00,X-59/X-69,Black Sea,Odesa oblast,2,2,kpszsu/posts/pfbid02zHD2SebSbFGBA3rXx6c9K7bCGXBjMnD3JbyNgC1z1C9L377ioRpyiAVd254JuT6zl,750.0
+2024-12-08 19:30:00,2024-12-09 08:00:00,Shahed-136/131,Primorsko-Akhtarsk and Oryol oblast,Ukraine,37,18,kpszsu/posts/pfbid02zHD2SebSbFGBA3rXx6c9K7bCGXBjMnD3JbyNgC1z1C9L377ioRpyiAVd254JuT6zl,750.0
+2024-12-07 20:30:00,2024-12-08 08:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,74,28,kpszsu/posts/pfbid03cqdfBu5cYTfVZdu7MCfdgayQbZeG4Tw2Z5huchsY6GXKJtoQRdJTNLddAN3iDdhl,720.0
+2024-12-06 21:30:00,2024-12-07 08:30:00,Unknown Missile,,Sumy oblast,1,0,kpszsu/posts/pfbid0X2HMZafuGXEp5T3CqLrWQpWvqdXF3YcezKMGPfnWJD5w2yKrTet9kUjExws9kffWl,660.0
+2024-12-06 21:30:00,2024-12-07 08:30:00,Shahed-136/131,Primorsko-Akhtarsk,Ukraine,14,7,kpszsu/posts/pfbid0X2HMZafuGXEp5T3CqLrWQpWvqdXF3YcezKMGPfnWJD5w2yKrTet9kUjExws9kffWl,660.0
+2024-12-05 20:00:00,2024-12-06 07:00:00,Shahed-136/131,Oryol oblast,Ukraine,53,32,kpszsu/posts/pfbid02xqmdg74KoC3ZJx3h8iotsnP8vqz29DaB56544R8sUTtdwA6vv48tt4M5mtKdx8mFl,660.0
+2024-12-04 20:00:00,2024-12-05 08:30:00,Shahed-136/131,Kursk oblast and Oryol oblast,Ukraine,44,30,kpszsu/posts/pfbid02rGJGfiVMKpkx9CF387D29iZgDjLRwVUSKYieLtKA1rZTSQ8AkX5nyZ69W8B2m4Prl,750.0
+2024-12-04 20:00:00,2024-12-05 08:30:00,Iskander-M,Rostov oblast,Dnipropetrovsk oblast,2,0,kpszsu/posts/pfbid02rGJGfiVMKpkx9CF387D29iZgDjLRwVUSKYieLtKA1rZTSQ8AkX5nyZ69W8B2m4Prl,750.0
+2024-12-03 20:00:00,2024-12-04 09:00:00,X-59/X-69,Kursk oblast,Ukraine,1,0,kpszsu/posts/pfbid02aMujVyzrKC99J4NkNu2kacTfKp7ykMAbtS8GHgNUraYWVyG4dTztVADDfCHZ5ugWl,780.0
+2024-12-03 20:00:00,2024-12-04 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Oryol oblast and Millerovo,Ukraine,50,29,kpszsu/posts/pfbid02aMujVyzrKC99J4NkNu2kacTfKp7ykMAbtS8GHgNUraYWVyG4dTztVADDfCHZ5ugWl,780.0
+2024-12-02 20:00:00,2024-12-03 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Millerovo,Ukraine,28,22,kpszsu/posts/pfbid0nbLZvo6b5XbBgxvcQS84r1Q4uxUTWEg65XF8CUYpqnoFjVn3Z6ek4z9qDf46RQGKl,780.0
+2024-12-02 17:00:00,2024-12-02 20:00:00,X-59/X-69,,Kryvyi Rih,3,3,kpszsu/posts/pfbid0tVvunZhbNXqLH17VszywZWG67SkJ6tiQ3Y8MhdwKCR3i5UAJAicmKaE498nzFNynl,180.0
+2024-12-01 19:00:00,2024-12-02 08:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Millerovo,Ukraine,110,52,kpszsu/posts/pfbid02GKEnxg4RTmcwPbitdqr8asW6o9buQp5FfP9m4WbcYxwE8kHp8oX3Kkk2wCCBDic4l,810.0
+2024-11-30 20:00:00,2024-12-01 09:00:00,Shahed-136/131,Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,78,32,kpszsu/posts/pfbid02XdZ1pho398Y7qxxWhbvogcKf99ygRigSRoAPZvKf4fRegnLJr32LeXKge3R3MKiBl,780.0
+2024-11-29 21:30:00,2024-11-30 09:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast,Ukraine,10,8,kpszsu/posts/pfbid0pDD9Spt17iAwxCFo3Sz1E9u8FP5eUVAQi72bhZWkd2Z3tNq7Z3pB4pM3kntbmd7l,720.0
+2024-11-28 18:30:00,2024-11-29 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Millerovo,Ukraine,132,88,kpszsu/posts/pfbid0eFKP2sC92SLP8Ma41ZkfqzMJPCShr3R4oEo7PKyMang5qAthviocbhPqRhbqUGHCl,870.0
+2024-11-27 19:30:00,2024-11-28 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,97,35,kpszsu/posts/pfbid02pwC64HFTVx1QMAsur3iYzdHAxdE9KJmLff4C46MmmLgYmdrueFqargo76QEac4KVl,810.0
+2024-11-28 05:00:00,2024-11-28 08:30:00,X-59/X-69,Black Sea,Ukraine,3,3,kpszsu/posts/pfbid02pwC64HFTVx1QMAsur3iYzdHAxdE9KJmLff4C46MmmLgYmdrueFqargo76QEac4KVl,210.0
+2024-11-28 05:00:00,2024-11-28 08:30:00,X-101/X-555 and Kalibr,Volgograd oblast and Black Sea,Ukraine,85,76,kpszsu/posts/pfbid02pwC64HFTVx1QMAsur3iYzdHAxdE9KJmLff4C46MmmLgYmdrueFqargo76QEac4KVl,210.0
+2024-11-28 05:00:00,2024-11-28 08:30:00,C-300,Belgorod oblast,Kharkiv oblast,3,0,kpszsu/posts/pfbid02pwC64HFTVx1QMAsur3iYzdHAxdE9KJmLff4C46MmmLgYmdrueFqargo76QEac4KVl,210.0
+2024-11-26 19:30:00,2024-11-27 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,89,36,kpszsu/posts/pfbid02wdDTAMphzoohYfjnNeTV4rf7aKmynkBpe6Bn165J3cgG1ZeWYuHTws13od1QvT63l,810.0
+2024-11-25 19:30:00,2024-11-26 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,188,76,kpszsu/posts/pfbid0ivA1n56cM1nYSptqFT5m6QC4GA9UYt3QphX4Ajdp1r565KkiR6R95QJ9Dcstraw1l,810.0
+2024-11-25 19:30:00,2024-11-26 09:00:00,Iskander-M,Kursk oblast and Voronezh oblast,Ukraine,4,0,kpszsu/posts/pfbid0ivA1n56cM1nYSptqFT5m6QC4GA9UYt3QphX4Ajdp1r565KkiR6R95QJ9Dcstraw1l,810.0
+2024-11-24 18:30:00,2024-11-25 11:00:00,Shahed-136/131,Primorsko-Akhtarsk and Crimea and Kursk oblast and Oryol oblast and Millerovo,Ukraine,145,71,kpszsu/posts/pfbid0WYs5Wwzrp8QWY22ZqaEMJRSoWxRjm8Gbj1ED7Eqyh3g59RjZUJEFHH32A1d1Q5Hsl,990.0
+2024-11-24 00:30:00,2024-11-24 09:00:00,Shahed-136/131,Bryansk oblast and Oryol oblast,Ukraine,73,50,kpszsu/posts/pfbid0SYaDRQQ2VXJdu1WSjZuobnyhxXmoYaYrCBkRgBLoRRHeSEogSft2MTqaMf3sFdwYl,510.0
+2024-11-22 01:30:00,2024-11-22 17:30:00,Shahed-136/131,Oryol oblast,Ukraine,114,64,kpszsu/posts/pfbid033xvV26YAwWixmZz63iEiJoamPvhas2x1HcUZCjn2qgkTPqymgqLu4Y66uqy2C4Vrl,960.0
+2024-11-21 05:00:00,2024-11-21 07:00:00,X-47 Kinzhal,Tambov oblast,Dnipro,1,0,kpszsu/posts/pfbid0pUyijkFoZq8stQXuacDCRxLeQVKR43R7E3cNFttv5iiE2J2MY5R29prpM5Dwex95l,120.0
+2024-11-21 05:00:00,2024-11-21 07:00:00,X-101/X-555,Volgograd oblast,Dnipro,7,6,kpszsu/posts/pfbid0pUyijkFoZq8stQXuacDCRxLeQVKR43R7E3cNFttv5iiE2J2MY5R29prpM5Dwex95l,120.0
+2024-11-21 05:00:00,2024-11-21 07:00:00,Intercontinental ballistic missile,Astrakhan oblast,Dnipro,1,0,kpszsu/posts/pfbid0pUyijkFoZq8stQXuacDCRxLeQVKR43R7E3cNFttv5iiE2J2MY5R29prpM5Dwex95l,120.0
+2024-11-19 19:30:00,2024-11-20 11:00:00,X-59/X-69,,Dnipropetrovsk oblast and Chernihiv oblast and Sumy oblast,5,2,kpszsu/posts/pfbid0Ru18ZWa3w5vbFuFa2hSyVdsyDHDB1J1GQrUnYbxMkHfYG5XCSMvPsaqSkgpaxiSil,930.0
+2024-11-19 19:30:00,2024-11-20 11:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,122,56,kpszsu/posts/pfbid0Ru18ZWa3w5vbFuFa2hSyVdsyDHDB1J1GQrUnYbxMkHfYG5XCSMvPsaqSkgpaxiSil,930.0
+2024-11-19 19:30:00,2024-11-20 11:00:00,C-300,Belgorod oblast,Kharkiv oblast,1,0,kpszsu/posts/pfbid0Ru18ZWa3w5vbFuFa2hSyVdsyDHDB1J1GQrUnYbxMkHfYG5XCSMvPsaqSkgpaxiSil,930.0
+2024-11-18 19:30:00,2024-11-19 09:00:00,Shahed-136/131,Crimea and Kursk oblast and Oryol oblast,Ukraine,87,51,kpszsu/posts/pfbid03cPepGFN5JUPNHu3FC3xsHgFL8F65TJF8k3NPpPJMxt1kxzxoBFQyWuxjuQH91sil,810.0
+2024-11-17 19:30:00,2024-11-18 08:00:00,X-59,Kursk oblast,Sumy oblast,1,0,kpszsu/posts/pfbid02HfrwK8KEwNpDtRAPKea44MMDh5sunYW9vXqhuLpQCExXmAXN1W4Z1mKCCnTHuEkrl,750.0
+2024-11-17 19:30:00,2024-11-18 08:00:00,Shahed-136/131,Kursk oblast,Ukraine,11,8,kpszsu/posts/pfbid02HfrwK8KEwNpDtRAPKea44MMDh5sunYW9vXqhuLpQCExXmAXN1W4Z1mKCCnTHuEkrl,750.0
+2024-11-17 19:30:00,2024-11-18 08:00:00,Iskander-M,Voronezh oblast,Sumy oblast,2,0,kpszsu/posts/pfbid02HfrwK8KEwNpDtRAPKea44MMDh5sunYW9vXqhuLpQCExXmAXN1W4Z1mKCCnTHuEkrl,750.0
+2024-11-16 20:00:00,2024-11-17 12:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,90,42,kpszsu/posts/pfbid0NtNfiWC27XJpe2PHcaBArQk6Js7Cn9N1mMEwHPMsVHq9qTd83J9pJ1zS7xJp4Eh5l,960.0
+2024-11-17 05:30:00,2024-11-17 08:30:00,X-59/X-69,,Ukraine,5,5,kpszsu/posts/pfbid0NtNfiWC27XJpe2PHcaBArQk6Js7Cn9N1mMEwHPMsVHq9qTd83J9pJ1zS7xJp4Eh5l,180.0
+2024-11-17 05:30:00,2024-11-17 08:30:00,X-47 Kinzhal,,Ukraine,8,7,kpszsu/posts/pfbid0NtNfiWC27XJpe2PHcaBArQk6Js7Cn9N1mMEwHPMsVHq9qTd83J9pJ1zS7xJp4Eh5l,180.0
+2024-11-17 05:30:00,2024-11-17 08:30:00,X-22/X-31P,,Ukraine,4,4,kpszsu/posts/pfbid0NtNfiWC27XJpe2PHcaBArQk6Js7Cn9N1mMEwHPMsVHq9qTd83J9pJ1zS7xJp4Eh5l,180.0
+2024-11-17 05:30:00,2024-11-17 08:30:00,X-101/X-555 and Kalibr,,Ukraine,101,85,kpszsu/posts/pfbid0NtNfiWC27XJpe2PHcaBArQk6Js7Cn9N1mMEwHPMsVHq9qTd83J9pJ1zS7xJp4Eh5l,180.0
+2024-11-17 05:30:00,2024-11-17 08:30:00,Iskander-M,,Ukraine,1,0,kpszsu/posts/pfbid0NtNfiWC27XJpe2PHcaBArQk6Js7Cn9N1mMEwHPMsVHq9qTd83J9pJ1zS7xJp4Eh5l,180.0
+2024-11-17 05:30:00,2024-11-17 08:30:00,3M22 Zircon,,Ukraine,1,1,kpszsu/posts/pfbid0NtNfiWC27XJpe2PHcaBArQk6Js7Cn9N1mMEwHPMsVHq9qTd83J9pJ1zS7xJp4Eh5l,180.0
+2024-11-15 20:30:00,2024-11-16 08:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,83,53,kpszsu/posts/pfbid033Q3hKDFCnYqWEQAXM2r7pKnyjvSnwavjGEY3w1LuZhf3YjjRFk4v4xL1BAR865Xzl,720.0
+2024-11-15 20:30:00,2024-11-16 08:30:00,Lancet,,south,3,3,PvKPivden/posts/pfbid031jiwgTZyxt9ywuLUnAQ88L2XLBRvGmqBctH1E69HTzb25VBATdAWxAMsLLrsnYm1l,720.0
+2024-11-15 20:30:00,2024-11-16 08:30:00,C-300,,Kharkiv oblast,1,0,kpszsu/posts/pfbid033Q3hKDFCnYqWEQAXM2r7pKnyjvSnwavjGEY3w1LuZhf3YjjRFk4v4xL1BAR865Xzl,720.0
+2024-11-14 21:00:00,2024-11-15 08:30:00,Shahed-136/131,Primorsko-Akhtarsk,Odesa oblast,29,25,kpszsu/posts/pfbid02dDnfoFXh172xeY19tgEjWnaQ5N9TL58Cram5qNrAGGBMg2JWVmSrjzjadoftByM1l,690.0
+2024-11-14 21:30:00,2024-11-14 22:00:00,X-59/X-69,Black Sea,Odesa oblast,2,1,kpszsu/posts/pfbid02dDnfoFXh172xeY19tgEjWnaQ5N9TL58Cram5qNrAGGBMg2JWVmSrjzjadoftByM1l,30.0
+2024-11-13 19:00:00,2024-11-14 08:30:00,Shahed-136/131,Kursk oblast,Ukraine,59,21,kpszsu/posts/pfbid02dDnfoFXh172xeY19tgEjWnaQ5N9TL58Cram5qNrAGGBMg2JWVmSrjzjadoftByM1l,810.0
+2024-11-12 15:00:00,2024-11-13 10:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,90,37,kpszsu/posts/pfbid02WcMHuDNmpCr6XcT227RmhfBiUvqFDxXSA9EFTSiv688pbFABXetdL3AsqQCki44Tl,1140.0
+2024-11-13 06:00:00,2024-11-13 08:00:00,X-101/X-555,Caspian Sea,Ukraine,2,2,kpszsu/posts/pfbid02WcMHuDNmpCr6XcT227RmhfBiUvqFDxXSA9EFTSiv688pbFABXetdL3AsqQCki44Tl,120.0
+2024-11-13 06:00:00,2024-11-13 08:00:00,Iskander-M/KN-23,Voronezh oblast,Ukraine,2,2,kpszsu/posts/pfbid02WcMHuDNmpCr6XcT227RmhfBiUvqFDxXSA9EFTSiv688pbFABXetdL3AsqQCki44Tl,120.0
+2024-11-13 06:00:00,2024-11-13 08:00:00,C-300,Kursk oblast,Sumy oblast,2,0,kpszsu/posts/pfbid02WcMHuDNmpCr6XcT227RmhfBiUvqFDxXSA9EFTSiv688pbFABXetdL3AsqQCki44Tl,120.0
+2024-11-11 21:00:00,2024-11-12 11:00:00,X-59/X-69,Kursk oblast,Chernihiv oblast,2,0,kpszsu/posts/pfbid0muaHGuk1KdLAPjMnfzpJprKNkv53urH572LmYyriY3upMSWB2Jh9VjbQseNEv2Xql,840.0
+2024-11-11 21:00:00,2024-11-12 11:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast,Ukraine,110,46,kpszsu/posts/pfbid0muaHGuk1KdLAPjMnfzpJprKNkv53urH572LmYyriY3upMSWB2Jh9VjbQseNEv2Xql,840.0
+2024-11-11 21:00:00,2024-11-12 11:00:00,C-300,Belgorod oblast,Kharkiv,1,0,kpszsu/posts/pfbid0muaHGuk1KdLAPjMnfzpJprKNkv53urH572LmYyriY3upMSWB2Jh9VjbQseNEv2Xql,840.0
+2024-11-10 20:00:00,2024-11-11 09:30:00,X-59/X-69,Zaporizhzhia oblast,Ukraine,2,2,kpszsu/posts/pfbid02525KLHVcfaW9nZfRexr72BEfG3E14Mr9wGVCjEhaiQyX3zoFQ9YyHaTYZMGscBTSl,810.0
+2024-11-10 20:00:00,2024-11-11 09:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,74,39,kpszsu/posts/pfbid02525KLHVcfaW9nZfRexr72BEfG3E14Mr9wGVCjEhaiQyX3zoFQ9YyHaTYZMGscBTSl,810.0
+2024-11-09 20:00:00,2024-11-10 09:30:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Bryansk oblast and Oryol oblast",Ukraine,145,62,kpszsu/posts/pfbid02WGh4h2c3C4siGWk4vZfjhkxbZGbHtjJPSFcpA8YoAFN7EWoVRR4Q1gUmD8oTWXuFl,810.0
+2024-11-08 21:00:00,2024-11-09 08:00:00,Shahed-136/131,Primorsko-Akhtarsk and Oryol oblast,Odesa oblast,51,32,kpszsu/posts/pfbid0KNh8zwaEUDoSRmC98Z1fmr3fj7QmpYCsj91MnN7j6Vxbur72CoouKoHiqkcvGB9Ml,660.0
+2024-11-07 18:00:00,2024-11-08 09:00:00,X-59/X-69,Belgorod oblast,Ukraine,4,4,kpszsu/posts/pfbid0TneFwE6AayFrS64wiPHcoTpCpoEPuLmMfxDkA4pthnhEUyZBiQXDmokvfiXujXxml,900.0
+2024-11-07 18:00:00,2024-11-08 09:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Oryol oblast",Ukraine,92,62,kpszsu/posts/pfbid0TneFwE6AayFrS64wiPHcoTpCpoEPuLmMfxDkA4pthnhEUyZBiQXDmokvfiXujXxml,900.0
+2024-11-07 18:00:00,2024-11-08 09:00:00,Iskander-M,Rostov oblast,Ukraine,1,0,kpszsu/posts/pfbid0TneFwE6AayFrS64wiPHcoTpCpoEPuLmMfxDkA4pthnhEUyZBiQXDmokvfiXujXxml,900.0
+2024-11-06 21:00:00,2024-11-07 12:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Oryol oblast",Ukraine,106,74,kpszsu/posts/pfbid03bWdfMFktkY6JsWEKAQtGQa84i24FDPzXrXWLQ88ukEFQfydAK5jqTbme8GpDTUql,900.0
+2024-11-05 20:00:00,2024-11-06 07:30:00,X-59,Black Sea,Odesa oblast,2,0,kpszsu/posts/pfbid0JzxY5fpgNDEonxPBmis3ZHCoCAFRAa2igBy7ztr487EBsZTAeW5AjbY6hukGdryHl,690.0
+2024-11-05 20:00:00,2024-11-06 07:30:00,X-31P,Black Sea,Odesa oblast,1,0,kpszsu/posts/pfbid0JzxY5fpgNDEonxPBmis3ZHCoCAFRAa2igBy7ztr487EBsZTAeW5AjbY6hukGdryHl,690.0
+2024-11-05 20:00:00,2024-11-06 07:30:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Bryansk oblast and Oryol oblast",Ukraine,63,38,kpszsu/posts/pfbid0JzxY5fpgNDEonxPBmis3ZHCoCAFRAa2igBy7ztr487EBsZTAeW5AjbY6hukGdryHl,690.0
+2024-11-04 20:00:00,2024-11-05 08:30:00,X-59/X-69,Black Sea,Odesa oblast,2,2,kpszsu/posts/pfbid0aqJgefkRBdtJfG7Ut4P5ZqmVkZUkoiXP1nC71Wb67AMf3GyQe5RpFdQ5Wq1d7swLl,750.0
+2024-11-04 20:00:00,2024-11-05 08:30:00,Shahed-136/131,Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,79,48,kpszsu/posts/pfbid0aqJgefkRBdtJfG7Ut4P5ZqmVkZUkoiXP1nC71Wb67AMf3GyQe5RpFdQ5Wq1d7swLl,750.0
+2024-11-03 19:00:00,2024-11-04 08:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast,Ukraine,80,50,kpszsu/posts/pfbid02Zcs2QFmRGsGnFCBSUCNjkRfmPhzCvuvwc4Z954CQfVHkTJutcyvipgrida7SMDJ6l,810.0
+2024-11-03 19:00:00,2024-11-04 08:30:00,Iskander-M,Rostov oblast,Dnipropetrovsk oblast,1,0,kpszsu/posts/pfbid02Zcs2QFmRGsGnFCBSUCNjkRfmPhzCvuvwc4Z954CQfVHkTJutcyvipgrida7SMDJ6l,810.0
+2024-11-02 17:30:00,2024-11-03 09:00:00,X-59/X-69,Kursk oblast,Ukraine,1,1,kpszsu/posts/pfbid02h57i7BNHvYc1KoHfR98jAbdcGnqL2W2Sd8sUBpD9koYhw6dLLCefMSaBMxUzqR35l,930.0
+2024-11-02 17:30:00,2024-11-03 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast,Ukraine,96,66,kpszsu/posts/pfbid02h57i7BNHvYc1KoHfR98jAbdcGnqL2W2Sd8sUBpD9koYhw6dLLCefMSaBMxUzqR35l,930.0
+2024-11-01 19:00:00,2024-11-02 11:00:00,X-31P,Belgorod oblast,Ukraine,1,0,https://t.me/kpszsu/22252,960.0
+2024-11-01 19:00:00,2024-11-02 11:00:00,Shahed-136/131,Kursk oblast and Oryol oblast,Ukraine,71,39,https://t.me/kpszsu/22252,960.0
+2024-10-31 18:00:00,2024-11-01 08:00:00,X-59/X-69,Black Sea,Odesa oblast,3,1,kpszsu/posts/pfbid023jNQqbwTkCqPoprkSX73bqf8uoCKA9ySwP3Kk1py4SNc8jK3UoDmWTxrAyy7MqZvl,840.0
+2024-10-31 18:00:00,2024-11-01 08:00:00,Shahed-136/131,Kursk oblast and Oryol oblast,Ukraine,48,31,kpszsu/posts/pfbid023jNQqbwTkCqPoprkSX73bqf8uoCKA9ySwP3Kk1py4SNc8jK3UoDmWTxrAyy7MqZvl,840.0
+2024-10-30 18:30:00,2024-10-31 08:00:00,Shahed-136/131,Kursk oblast and Oryol oblast,Ukraine,43,17,kpszsu/posts/pfbid0UC7rtSxhnnVcSyhVknz8Mj2SuE44h7NHkzqD6a5Xvx73cfV1J1xGp85gciuSJRkml,810.0
+2024-10-30 18:30:00,2024-10-31 08:00:00,Iskander-M/KN-23,Rostov oblast,Kramatorsk,2,0,kpszsu/posts/pfbid0UC7rtSxhnnVcSyhVknz8Mj2SuE44h7NHkzqD6a5Xvx73cfV1J1xGp85gciuSJRkml,810.0
+2024-10-30 18:30:00,2024-10-30 20:30:00,X-59/X-69,Black Sea,Odesa oblast,8,2,kpszsu/posts/pfbid0UC7rtSxhnnVcSyhVknz8Mj2SuE44h7NHkzqD6a5Xvx73cfV1J1xGp85gciuSJRkml,120.0
+2024-10-30 18:30:00,2024-10-30 20:30:00,Iskander-M/KN-23,Crimea,Odesa oblast,2,0,kpszsu/posts/pfbid0UC7rtSxhnnVcSyhVknz8Mj2SuE44h7NHkzqD6a5Xvx73cfV1J1xGp85gciuSJRkml,120.0
+2024-10-29 20:00:00,2024-10-30 07:00:00,Unknown Missile,Belgorod oblast,Sumy oblast,1,0,kpszsu/posts/pfbid02LASnGabL7Mdr8tw7xUergnEEp5BCwC8GqxtxuUvN5H8apBPTrbx77ScExbSHXFUMl,660.0
+2024-10-29 20:00:00,2024-10-30 07:00:00,Shahed-136/131,Primorsko-Akhtarsk and Oryol oblast,Ukraine,62,33,kpszsu/posts/pfbid02LASnGabL7Mdr8tw7xUergnEEp5BCwC8GqxtxuUvN5H8apBPTrbx77ScExbSHXFUMl,660.0
+2024-10-28 22:00:00,2024-10-29 09:00:00,Shahed-136/131,Kursk oblast and Oryol oblast,Ukraine,48,26,kpszsu/posts/pfbid0PZ8gja8VhKpQ94D19Qp1Bx8vTVc621DFJqkMDaMmDyR2SoCBETfkCw4WVBfv1ju3l,660.0
+2024-10-28 22:00:00,2024-10-29 09:00:00,Iskander-M,Crimea,Kryvyi Rih,1,0,kpszsu/posts/pfbid0PZ8gja8VhKpQ94D19Qp1Bx8vTVc621DFJqkMDaMmDyR2SoCBETfkCw4WVBfv1ju3l,660.0
+2024-10-27 19:00:00,2024-10-28 10:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,100,66,kpszsu/posts/pfbid022SLgExbgvFHNnQPpEkJcVV1g2i9kR72HjiddqK9ofbSruRJCzCrnQULQQeFFfDPxl,930.0
+2024-10-26 21:00:00,2024-10-27 09:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Kyiv oblast and Odesa oblast,80,41,kpszsu/posts/pfbid022SLgExbgvFHNnQPpEkJcVV1g2i9kR72HjiddqK9ofbSruRJCzCrnQULQQeFFfDPxl,750.0
+2024-10-25 19:00:00,2024-10-26 12:00:00,Shahed-136/131,Kursk oblast and Oryol oblast,Ukraine,91,44,kpszsu/posts/pfbid0332xUpH2nG7xW3oQhvCwFGkrEfF5xcnQCKnBD2fbnwziYtyxvsNCp5as9iPutW6BSl,1020.0
+2024-10-25 21:00:00,2024-10-25 23:00:00,X-59,Bryansk oblast,Dnipro and Sumy oblast,2,0,kpszsu/posts/pfbid0332xUpH2nG7xW3oQhvCwFGkrEfF5xcnQCKnBD2fbnwziYtyxvsNCp5as9iPutW6BSl,120.0
+2024-10-25 21:00:00,2024-10-25 23:00:00,Unknown Missile,Belgorod oblast,Dnipro and Sumy oblast,2,0,kpszsu/posts/pfbid0332xUpH2nG7xW3oQhvCwFGkrEfF5xcnQCKnBD2fbnwziYtyxvsNCp5as9iPutW6BSl,120.0
+2024-10-25 21:00:00,2024-10-25 23:00:00,Iskander-M/KN-23,Crimea,Dnipro and Sumy oblast,3,0,kpszsu/posts/pfbid0332xUpH2nG7xW3oQhvCwFGkrEfF5xcnQCKnBD2fbnwziYtyxvsNCp5as9iPutW6BSl,120.0
+2024-10-24 23:00:00,2024-10-25 10:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Kyiv oblast and Odesa oblast,63,36,kpszsu/posts/pfbid02F3cHm5kBvUhLjFheGmY6MRLVNgskUzDyGW2SGfxQi5wSEL85pYoZFwdbwxiMZQfel,660.0
+2024-10-23 21:00:00,2024-10-24 08:30:00,X-59,Bryansk oblast,east,2,0,kpszsu/posts/pfbid0CNy7k6JNwm3sw6Uyf1tFJhupmAut82sQ36FpgUL7r8pBPED8jDYE9BfgAuEEHGbVl,690.0
+2024-10-23 21:00:00,2024-10-24 08:30:00,X-22,,south,2,0,kpszsu/posts/pfbid0CNy7k6JNwm3sw6Uyf1tFJhupmAut82sQ36FpgUL7r8pBPED8jDYE9BfgAuEEHGbVl,690.0
+2024-10-23 21:00:00,2024-10-24 08:30:00,Shahed-136/131,Crimea and Kursk oblast and Oryol oblast,Ukraine,50,40,kpszsu/posts/pfbid0CNy7k6JNwm3sw6Uyf1tFJhupmAut82sQ36FpgUL7r8pBPED8jDYE9BfgAuEEHGbVl,690.0
+2024-10-22 22:00:00,2024-10-23 09:00:00,X-31P,Black Sea,Odesa oblast,1,0,kpszsu/posts/pfbid0p8DG34uhS4CjobvHbduaArfixpoKHN6eGEgAhjgpX8HuPiqGQiH1a6XmuDvBVX2gl,660.0
+2024-10-22 22:00:00,2024-10-23 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast,Ukraine,81,57,kpszsu/posts/pfbid0p8DG34uhS4CjobvHbduaArfixpoKHN6eGEgAhjgpX8HuPiqGQiH1a6XmuDvBVX2gl,660.0
+2024-10-21 20:00:00,2024-10-22 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Yeysk,Ukraine,60,42,kpszsu/posts/pfbid02U42kSAtujzbPG6oHFBUkfkmxsuMrU5PpA3Zq6JJje4Ub7dEJEwUcagNiBQ9u8QXol,780.0
+2024-10-20 20:00:00,2024-10-21 09:30:00,X-35,Black Sea,Odesa oblast,1,0,kpszsu/posts/pfbid02U42kSAtujzbPG6oHFBUkfkmxsuMrU5PpA3Zq6JJje4Ub7dEJEwUcagNiBQ9u8QXol,810.0
+2024-10-20 20:00:00,2024-10-21 09:30:00,X-31P,Black Sea,Odesa oblast,1,0,kpszsu/posts/pfbid02U42kSAtujzbPG6oHFBUkfkmxsuMrU5PpA3Zq6JJje4Ub7dEJEwUcagNiBQ9u8QXol,810.0
+2024-10-20 20:00:00,2024-10-21 09:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,116,59,kpszsu/posts/pfbid02U42kSAtujzbPG6oHFBUkfkmxsuMrU5PpA3Zq6JJje4Ub7dEJEwUcagNiBQ9u8QXol,810.0
+2024-10-20 20:00:00,2024-10-21 09:30:00,Iskander-M/KN-23,Crimea,south,1,0,kpszsu/posts/pfbid02U42kSAtujzbPG6oHFBUkfkmxsuMrU5PpA3Zq6JJje4Ub7dEJEwUcagNiBQ9u8QXol,810.0
+2024-10-19 21:00:00,2024-10-20 10:00:00,Shahed-136/131,Primorsko-Akhtarsk and Yeysk,Ukraine,49,31,kpszsu/posts/pfbid032KnKTE23Pa3hTc5KKNh93JZy9YVWQyhYbSeBxqZv2EUyYQ8nSQ3V7H8jmNsjs5FKl,780.0
+2024-10-19 21:00:00,2024-10-20 10:00:00,Iskander-M,Crimea,Kryvyi Rih,2,0,kpszsu/posts/pfbid032KnKTE23Pa3hTc5KKNh93JZy9YVWQyhYbSeBxqZv2EUyYQ8nSQ3V7H8jmNsjs5FKl,780.0
+2024-10-18 21:00:00,2024-10-19 12:00:00,X-59/X-69,Black Sea,Odesa oblast,6,4,kpszsu/posts/pfbid0Ls4p3uJF94L3N9fiRNeDaWq3Kc1kxMVTKFwUdRkRhdsmQyrE6pNT7E9BHxzgUc35l,900.0
+2024-10-18 21:00:00,2024-10-19 12:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Yeysk,Ukraine,98,42,kpszsu/posts/pfbid0Ls4p3uJF94L3N9fiRNeDaWq3Kc1kxMVTKFwUdRkRhdsmQyrE6pNT7E9BHxzgUc35l,900.0
+2024-10-17 20:00:00,2024-10-18 08:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,135,80,kpszsu/posts/pfbid0NGs6LTxLeiMG9cMkg1X6heBwfsD7RYAkJQ5LYFeWAcoKHNPSyBRNzMX37TvD81Pxl,750.0
+2024-10-16 19:30:00,2024-10-17 05:00:00,X-59,Kursk oblast,Ukraine,1,0,kpszsu/posts/pfbid02Pusj36PuDkPe3xcxa8KaSfdk1ZhhV3eLZ5Zt2xgbgscrfhoMP5YGeWfAJ1Vu8y56l,570.0
+2024-10-16 19:30:00,2024-10-17 05:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,56,22,kpszsu/posts/pfbid02Pusj36PuDkPe3xcxa8KaSfdk1ZhhV3eLZ5Zt2xgbgscrfhoMP5YGeWfAJ1Vu8y56l,570.0
+2024-10-15 19:00:00,2024-10-16 07:00:00,X-59,Kursk oblast,Chernihiv oblast,1,0,kpszsu/posts/pfbid02R1Ks1cFrmJ2XEVHCAKVA4az3fiuNCBaoitGiYJ5GN2PpvGzJ7UhmBxq22c31WJDAl,720.0
+2024-10-15 19:00:00,2024-10-16 07:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,136,68,kpszsu/posts/pfbid02R1Ks1cFrmJ2XEVHCAKVA4az3fiuNCBaoitGiYJ5GN2PpvGzJ7UhmBxq22c31WJDAl,720.0
+2024-10-15 19:00:00,2024-10-16 07:00:00,C-300/C-400,Donetsk oblast,Donetsk oblast,1,0,kpszsu/posts/pfbid02R1Ks1cFrmJ2XEVHCAKVA4az3fiuNCBaoitGiYJ5GN2PpvGzJ7UhmBxq22c31WJDAl,720.0
+2024-10-09 19:00:00,2024-10-10 10:10:00,X-59/X-69,Crimea,Mykolaiv oblast,2,0,kpszsu/posts/pfbid025yRghve2FJQ1kaFCnixFGi2zLTysYnGdxdM2kijs9u65HeLSfN1wrzDicj7FKez4l,910.0
+2024-10-09 19:00:00,2024-10-10 10:10:00,X-31P,Crimea,Odesa oblast,1,0,kpszsu/posts/pfbid025yRghve2FJQ1kaFCnixFGi2zLTysYnGdxdM2kijs9u65HeLSfN1wrzDicj7FKez4l,910.0
+2024-10-09 19:00:00,2024-10-10 10:10:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast,Ukraine,62,41,kpszsu/posts/pfbid025yRghve2FJQ1kaFCnixFGi2zLTysYnGdxdM2kijs9u65HeLSfN1wrzDicj7FKez4l,910.0
+2024-10-09 19:00:00,2024-10-10 10:10:00,Iskander-M,Crimea,Odesa oblast,2,0,kpszsu/posts/pfbid025yRghve2FJQ1kaFCnixFGi2zLTysYnGdxdM2kijs9u65HeLSfN1wrzDicj7FKez4l,910.0
+2024-10-09 19:00:00,2024-10-10 10:10:00,C-300,Donetsk oblast,east,3,0,kpszsu/posts/pfbid025yRghve2FJQ1kaFCnixFGi2zLTysYnGdxdM2kijs9u65HeLSfN1wrzDicj7FKez4l,910.0
+2024-10-07 19:00:00,2024-10-08 08:30:00,Shahed-136/131,Primorsko-Akhtarsk,Ukraine,19,18,kpszsu/posts/pfbid036jsZjUzq9EYEnqWXUNyg9WYhkrrE3DXsR2AQ3dTiR4QgKNmsnjALam8XSVHB4u34l,810.0
+2024-10-07 19:00:00,2024-10-08 08:30:00,Orlan-10,,south,1,1,PvKPivden/posts/pfbid0Zs9zno9XwM4yggUPYxGYSUnd15LvNnoQCuYV4bxSnz66wUsA7LFdakS4tBgsUYcAl,810.0
+2024-10-07 19:00:00,2024-10-08 08:30:00,Iskander-M,Crimea,Odesa oblast,2,0,kpszsu/posts/pfbid036jsZjUzq9EYEnqWXUNyg9WYhkrrE3DXsR2AQ3dTiR4QgKNmsnjALam8XSVHB4u34l,810.0
+2024-10-07 08:20:00,2024-10-07 08:30:00,X-47 Kinzhal,Tambov oblast,Kyiv oblast and Starokostiantyniv,3,2,kpszsu/posts/pfbid0heC8uLvYRiUCEUGJKzMx93YmKcKL4WrDv9WhYgkVMdUHypofdTRsathbAwYjQZaXl,10.0
+2024-10-06 20:00:00,2024-10-07 08:30:00,X-59,,Ukraine,1,0,kpszsu/posts/pfbid0heC8uLvYRiUCEUGJKzMx93YmKcKL4WrDv9WhYgkVMdUHypofdTRsathbAwYjQZaXl,750.0
+2024-10-06 20:00:00,2024-10-07 08:30:00,Unknown Missile,,Ukraine,1,0,kpszsu/posts/pfbid0heC8uLvYRiUCEUGJKzMx93YmKcKL4WrDv9WhYgkVMdUHypofdTRsathbAwYjQZaXl,750.0
+2024-10-06 20:00:00,2024-10-07 08:30:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Yeysk,Ukraine,74,32,kpszsu/posts/pfbid0heC8uLvYRiUCEUGJKzMx93YmKcKL4WrDv9WhYgkVMdUHypofdTRsathbAwYjQZaXl,750.0
+2024-10-06 20:00:00,2024-10-07 08:30:00,Iskander-M,,Ukraine,1,0,kpszsu/posts/pfbid0heC8uLvYRiUCEUGJKzMx93YmKcKL4WrDv9WhYgkVMdUHypofdTRsathbAwYjQZaXl,750.0
+2024-10-05 19:00:00,2024-10-06 09:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,87,56,kpszsu/posts/pfbid0pwAR53NaASEGUEBGn1CiJ1auBuoHfVQ8VGdSpRSaUV6bk7dbYwXwtqwSFYGALZpql,840.0
+2024-10-05 19:00:00,2024-10-06 07:00:00,X-59/X-69,,Ukraine,1,1,kpszsu/posts/pfbid0pwAR53NaASEGUEBGn1CiJ1auBuoHfVQ8VGdSpRSaUV6bk7dbYwXwtqwSFYGALZpql,720.0
+2024-10-05 19:00:00,2024-10-06 07:00:00,Iskander-M,Crimea,Odesa oblast,2,0,kpszsu/posts/pfbid0pwAR53NaASEGUEBGn1CiJ1auBuoHfVQ8VGdSpRSaUV6bk7dbYwXwtqwSFYGALZpql,720.0
+2024-10-05 19:00:00,2024-10-06 07:00:00,Iskander-K,,Ukraine,1,1,kpszsu/posts/pfbid0pwAR53NaASEGUEBGn1CiJ1auBuoHfVQ8VGdSpRSaUV6bk7dbYwXwtqwSFYGALZpql,720.0
+2024-10-02 21:00:00,2024-10-03 07:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Oryol oblast",Ukraine,105,78,kpszsu/posts/pfbid0vBkMy1uqppvvQmRSPQvMQWyBEotVJJkXCY4TmDYdANNNvryMBos9ko5yMcjLK8Qgl,600.0
+2024-09-29 19:00:00,2024-09-30 08:00:00,X-59/X-69,Zaporizhzhia oblast,Ukraine,1,1,kpszsu/posts/pfbid0vB6HN6TtjbuY3mNtjVNCwSaohiDeq5So6mu1A7re1YukbnZbGXe2vg9EBYsCt5D1l,780.0
+2024-09-29 19:00:00,2024-09-30 08:00:00,X-31P,Black Sea,Ukraine,1,0,kpszsu/posts/pfbid0vB6HN6TtjbuY3mNtjVNCwSaohiDeq5So6mu1A7re1YukbnZbGXe2vg9EBYsCt5D1l,780.0
+2024-09-29 19:00:00,2024-09-30 08:00:00,Shahed-136/131,Kursk oblast and Oryol oblast and Yeysk,Ukraine,73,67,kpszsu/posts/pfbid0vB6HN6TtjbuY3mNtjVNCwSaohiDeq5So6mu1A7re1YukbnZbGXe2vg9EBYsCt5D1l,780.0
+2024-09-29 19:00:00,2024-09-30 08:00:00,Iskander-M,Crimea,Ukraine,1,0,kpszsu/posts/pfbid0vB6HN6TtjbuY3mNtjVNCwSaohiDeq5So6mu1A7re1YukbnZbGXe2vg9EBYsCt5D1l,780.0
+2024-09-28 07:30:00,2024-09-28 08:30:00,Shahed-136/131,,Sumy oblast,3,1,kpszsu/posts/pfbid0BcPydZ3M6xG253J5Gtws3CEgUVJxgFB3Q2rc9ibCa9NtVLM83uwy9zUgAktSpkccl,60.0
+2024-09-27 19:00:00,2024-09-28 08:00:00,X-59/X-69,Zaporizhzhia oblast,Ukraine,2,2,kpszsu/posts/pfbid0RPGYr4vk8BqgYN1q6nddVuSUn26GrnN6d8fnsg4RD1aQT1nh3XNiVZ81NP7oyVgRl,780.0
+2024-09-27 19:00:00,2024-09-28 08:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Oryol oblast",Ukraine,73,69,kpszsu/posts/pfbid0RPGYr4vk8BqgYN1q6nddVuSUn26GrnN6d8fnsg4RD1aQT1nh3XNiVZ81NP7oyVgRl,780.0
+2024-09-27 19:00:00,2024-09-28 08:00:00,Iskander-M,Crimea,Odesa oblast,2,0,kpszsu/posts/pfbid0RPGYr4vk8BqgYN1q6nddVuSUn26GrnN6d8fnsg4RD1aQT1nh3XNiVZ81NP7oyVgRl,780.0
+2024-09-27 16:00:00,2024-09-27 16:30:00,X-47 Kinzhal,,Starokostiantyniv,4,0,https://t.me/war_monitor/21099,30.0
+2024-09-26 10:00:00,2024-09-26 11:00:00,X-47 Kinzhal,,Starokostiantyniv,3,0,https://t.me/kpszsu/20048,60.0
+2024-09-23 20:00:00,2024-09-24 07:00:00,X-59/X-69,Bryansk oblast,Ukraine,1,0,kpszsu/posts/pfbid0Tca5UchJH9opUCyykxGGtaTvbRTixscD1LMyF4UJ1JewE23kexf24m3oXwaWRgfxl,660.0
+2024-09-23 20:00:00,2024-09-24 07:00:00,Unknown Missile,Kursk oblast,Ukraine,1,0,kpszsu/posts/pfbid0Tca5UchJH9opUCyykxGGtaTvbRTixscD1LMyF4UJ1JewE23kexf24m3oXwaWRgfxl,660.0
+2024-09-23 20:00:00,2024-09-24 07:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast,north and center,81,66,kpszsu/posts/pfbid0Tca5UchJH9opUCyykxGGtaTvbRTixscD1LMyF4UJ1JewE23kexf24m3oXwaWRgfxl,660.0
+2024-09-23 20:00:00,2024-09-24 07:00:00,Iskander-M,Rostov oblast,Ukraine,1,0,kpszsu/posts/pfbid0Tca5UchJH9opUCyykxGGtaTvbRTixscD1LMyF4UJ1JewE23kexf24m3oXwaWRgfxl,660.0
+2024-09-16 19:00:00,2024-09-17 06:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast",Ukraine,51,34,kpszsu/posts/pfbid02CSfEQ9VxaMaB4XbR5QY72Rv3oHmTpc1Dxy2771Y4Gsu8F7iTaHuWgkTTaH6zGctkl,660.0
+2024-09-15 20:00:00,2024-09-16 06:00:00,Shahed-136/131,Kursk oblast and Yeysk,Ukraine,56,53,kpszsu/posts/pfbid0fDQkauDmZrg2jKudxFMjGcQCL9DNXKbAnQXnnobfNMFX8WD3rTc4BpL4hWm5fuRJl,600.0
+2024-09-03 22:30:00,2024-09-04 08:00:00,Shahed-136/131,Kursk oblast,Ukraine,29,22,kpszsu/posts/pfbid04fwgdxjXMRPRPw1DdSUSZhP6ivfyZcgjKtcw18xtb1URbpfmNfKPhFtT1f2DgPLyl,570.0
+2024-09-04 05:30:00,2024-09-04 06:20:00,X-22,Black Sea,"Odesa oblast, Black Sea",2,0,kpszsu/posts/pfbid04fwgdxjXMRPRPw1DdSUSZhP6ivfyZcgjKtcw18xtb1URbpfmNfKPhFtT1f2DgPLyl,50.0
+2024-09-04 05:50:00,2024-09-04 06:10:00,Iskander-K,Crimea,Kryvyi Rih,3,3,kpszsu/posts/pfbid04fwgdxjXMRPRPw1DdSUSZhP6ivfyZcgjKtcw18xtb1URbpfmNfKPhFtT1f2DgPLyl,20.0
+2024-09-04 04:00:00,2024-09-04 06:00:00,X-101/X-555,Volgograd oblast,Ukraine,6,4,kpszsu/posts/pfbid04fwgdxjXMRPRPw1DdSUSZhP6ivfyZcgjKtcw18xtb1URbpfmNfKPhFtT1f2DgPLyl,120.0
+2024-09-04 05:40:00,2024-09-04 05:50:00,X-47 Kinzhal,Tula oblast,Lviv oblast,2,0,kpszsu/posts/pfbid04fwgdxjXMRPRPw1DdSUSZhP6ivfyZcgjKtcw18xtb1URbpfmNfKPhFtT1f2DgPLyl,10.0
+2024-08-26 03:00:00,2024-08-26 18:00:00,X-47 Kinzhal,Ryazan oblast and Lipetsk oblast,Ukraine,3,1,kpszsu/posts/pfbid02YK2sa7Z1E1QFpPfQVTMhRjj4QC2YFbmjYHbo3mtDjZVGw5PWbsP37mUizaKChkrrl,900.0
+2024-08-26 03:00:00,2024-08-26 18:00:00,X-22,Voronezh oblast,Ukraine,3,1,kpszsu/posts/pfbid02YK2sa7Z1E1QFpPfQVTMhRjj4QC2YFbmjYHbo3mtDjZVGw5PWbsP37mUizaKChkrrl,900.0
+2024-08-26 03:00:00,2024-08-26 18:00:00,X-101/X-555 and Kalibr and X-59/X-69,,Ukraine,115,99,kpszsu/posts/pfbid02YK2sa7Z1E1QFpPfQVTMhRjj4QC2YFbmjYHbo3mtDjZVGw5PWbsP37mUizaKChkrrl,900.0
+2024-08-26 03:00:00,2024-08-26 18:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Yeysk",Ukraine,109,99,kpszsu/posts/pfbid02YK2sa7Z1E1QFpPfQVTMhRjj4QC2YFbmjYHbo3mtDjZVGw5PWbsP37mUizaKChkrrl,900.0
+2024-08-26 03:00:00,2024-08-26 18:00:00,Iskander-M/KN-23,Kursk oblast and Voronezh oblast,Ukraine,6,1,kpszsu/posts/pfbid02YK2sa7Z1E1QFpPfQVTMhRjj4QC2YFbmjYHbo3mtDjZVGw5PWbsP37mUizaKChkrrl,900.0
+2024-07-11 20:30:00,2024-07-11 21:30:00,X-101/X-555,Saratov oblast,Ukraine,5,5,kpszsu/posts/pfbid02p5rqnWwuxqXa9qtenYk5dxGuqLW23S6pu9bxjpNFDtt4g8qsxx4vZunu3APWbnP1l,60.0
+2024-07-08 09:00:00,2024-07-08 10:00:00,X-59/X-69,,Ukraine,3,3,kpszsu/posts/pfbid0372RPhk6jJn236hCi6QdRChK4hJdwyzZgPcjuZeBVd2ujMbSSVBsHfyK7a3SfgHd2l,60.0
+2024-07-08 09:00:00,2024-07-08 10:00:00,X-47 Kinzhal,,Ukraine,1,1,kpszsu/posts/pfbid0372RPhk6jJn236hCi6QdRChK4hJdwyzZgPcjuZeBVd2ujMbSSVBsHfyK7a3SfgHd2l,60.0
+2024-07-08 09:00:00,2024-07-08 10:00:00,X-22,,Ukraine,2,0,kpszsu/posts/pfbid0372RPhk6jJn236hCi6QdRChK4hJdwyzZgPcjuZeBVd2ujMbSSVBsHfyK7a3SfgHd2l,60.0
+2024-07-08 09:00:00,2024-07-08 10:00:00,X-101/X-555,,Ukraine,13,11,kpszsu/posts/pfbid0372RPhk6jJn236hCi6QdRChK4hJdwyzZgPcjuZeBVd2ujMbSSVBsHfyK7a3SfgHd2l,60.0
+2024-07-08 09:00:00,2024-07-08 10:00:00,Kalibr,,Ukraine,14,12,kpszsu/posts/pfbid0372RPhk6jJn236hCi6QdRChK4hJdwyzZgPcjuZeBVd2ujMbSSVBsHfyK7a3SfgHd2l,60.0
+2024-07-08 09:00:00,2024-07-08 10:00:00,Iskander-M,,Ukraine,4,3,kpszsu/posts/pfbid0372RPhk6jJn236hCi6QdRChK4hJdwyzZgPcjuZeBVd2ujMbSSVBsHfyK7a3SfgHd2l,60.0
+2024-07-08 09:00:00,2024-07-08 10:00:00,3M22 Zircon,,Ukraine,1,0,kpszsu/posts/pfbid0372RPhk6jJn236hCi6QdRChK4hJdwyzZgPcjuZeBVd2ujMbSSVBsHfyK7a3SfgHd2l,60.0
+2024-03-22 02:00:00,2024-03-22 09:00:00,X-59,Zaporizhzhia oblast,east,2,2,kpszsu/posts/pfbid0G2H3qnSqb4ZcDPgrD1by43GSeZ4o41nYaLVPMoD8RivggQia5m7rqUTymoBLcEjGl,420.0
+2024-03-22 02:00:00,2024-03-22 09:00:00,X-47 Kinzhal,Tambov oblast,Ukraine,7,0,kpszsu/posts/pfbid0G2H3qnSqb4ZcDPgrD1by43GSeZ4o41nYaLVPMoD8RivggQia5m7rqUTymoBLcEjGl,420.0
+2024-03-22 02:00:00,2024-03-22 09:00:00,X-22,Rostov oblast,Ukraine,5,0,kpszsu/posts/pfbid0G2H3qnSqb4ZcDPgrD1by43GSeZ4o41nYaLVPMoD8RivggQia5m7rqUTymoBLcEjGl,420.0
+2024-03-22 02:00:00,2024-03-22 09:00:00,X-101/X-555,Caspian Sea,Ukraine,40,35,kpszsu/posts/pfbid0G2H3qnSqb4ZcDPgrD1by43GSeZ4o41nYaLVPMoD8RivggQia5m7rqUTymoBLcEjGl,420.0
+2024-03-22 02:00:00,2024-03-22 09:00:00,Shahed-136/131,Primorsko-Akhtarsk,Ukraine,63,55,kpszsu/posts/pfbid0G2H3qnSqb4ZcDPgrD1by43GSeZ4o41nYaLVPMoD8RivggQia5m7rqUTymoBLcEjGl,420.0
+2024-03-22 02:00:00,2024-03-22 09:00:00,Iskander-M,Belgorod oblast and Crimea,Ukraine,12,0,kpszsu/posts/pfbid0G2H3qnSqb4ZcDPgrD1by43GSeZ4o41nYaLVPMoD8RivggQia5m7rqUTymoBLcEjGl,420.0
+2024-03-22 02:00:00,2024-03-22 09:00:00,C-300/C-400,Belgorod oblast and Kursk oblast,Ukraine,22,0,kpszsu/posts/pfbid0G2H3qnSqb4ZcDPgrD1by43GSeZ4o41nYaLVPMoD8RivggQia5m7rqUTymoBLcEjGl,420.0
+2024-03-21 03:00:00,2024-03-21 07:00:00,X-101/X-555,Volgodonsk and Engels-2,Kyiv oblast,29,29,kpszsu/posts/pfbid024ZjSa6LyBpqHEUKgGXtEMfAnpthNWQ8BDB8e7cFkD2tk4fPqfUB7zDSaoDg1VGfSl,240.0
+2024-03-21 03:00:00,2024-03-21 07:00:00,Iskander-M/KN-23 and X-47 Kinzhal,,Kyiv oblast,2,2,kpszsu/posts/pfbid024ZjSa6LyBpqHEUKgGXtEMfAnpthNWQ8BDB8e7cFkD2tk4fPqfUB7zDSaoDg1VGfSl,240.0
+2024-01-13 06:50:00,2024-01-13 08:00:00,X-47 Kinzhal,Tambov oblast,Ukraine,6,0,kpszsu/posts/pfbid0acFYuvE28B9r4XssHo9gzoAG9qR2fvLHH1QBs6Yaa5zHgignCawcCcJdy2yobxhAl,70.0
+2024-01-02 07:30:00,2024-01-02 09:00:00,X-47 Kinzhal,,Ukraine,10,10,kpszsu/posts/pfbid0dHDR2DEoj5iAsgT4f91Kxsrg26jf5WtvMNfgF5nTNRThYVgJhyxvaj7ARY2qr3dEl,90.0
+2024-01-02 06:00:00,2024-01-02 09:00:00,X-31P,,Ukraine,4,0,kpszsu/posts/pfbid0dHDR2DEoj5iAsgT4f91Kxsrg26jf5WtvMNfgF5nTNRThYVgJhyxvaj7ARY2qr3dEl,180.0
+2024-01-02 06:00:00,2024-01-02 09:00:00,X-101/X-555,Olenya,Ukraine,70,59,kpszsu/posts/pfbid0dHDR2DEoj5iAsgT4f91Kxsrg26jf5WtvMNfgF5nTNRThYVgJhyxvaj7ARY2qr3dEl,180.0
+2024-01-02 06:00:00,2024-01-02 09:00:00,Kalibr,Black Sea,Ukraine,3,3,kpszsu/posts/pfbid0dHDR2DEoj5iAsgT4f91Kxsrg26jf5WtvMNfgF5nTNRThYVgJhyxvaj7ARY2qr3dEl,180.0
+2024-01-02 06:00:00,2024-01-02 09:00:00,C-300/C-400 and Iskander-M,north,Ukraine,12,0,kpszsu/posts/pfbid0dHDR2DEoj5iAsgT4f91Kxsrg26jf5WtvMNfgF5nTNRThYVgJhyxvaj7ARY2qr3dEl,180.0
+2024-01-01 20:00:00,2024-01-02 08:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea",Ukraine,35,35,kpszsu/posts/pfbid0hkUmoLymg6YXh2UX3hkTg7nvaMkD8szuKnw1kcDxkj9NBfZCgcEHPUzXctwLwcjLl,720.0
+2024-01-01 14:00:00,2024-01-01 19:00:00,X-59,,"Dnipropetrovsk oblast, Dnipro Raion",1,1,kpszsu/posts/pfbid022Psrtvj2YsMNuzMKQ3YzHxtYGz5t6Aravr5Pd14DS8qibKnQH3nPHZruobdNGB5Vl,300.0
+2024-01-01 14:00:00,2024-01-01 19:00:00,Shahed-136/131,north,Ukraine,10,9,kpszsu/posts/pfbid022Psrtvj2YsMNuzMKQ3YzHxtYGz5t6Aravr5Pd14DS8qibKnQH3nPHZruobdNGB5Vl,300.0
+2023-12-29 06:30:00,2023-12-29 09:30:00,X-59,,Ukraine,1,0,kpszsu/posts/pfbid036Z7vJTUcXeQcFSmQxxsWxcmcKzQf4T13iReKh7eVfka2bMutLmkJ6n95YuxQGYAQl,180.0
+2023-12-29 06:30:00,2023-12-29 09:30:00,X-47 Kinzhal,Astrakhan oblast,Ukraine,5,0,kpszsu/posts/pfbid036Z7vJTUcXeQcFSmQxxsWxcmcKzQf4T13iReKh7eVfka2bMutLmkJ6n95YuxQGYAQl,180.0
+2023-12-29 06:30:00,2023-12-29 09:30:00,X-31P,,Ukraine,4,0,kpszsu/posts/pfbid036Z7vJTUcXeQcFSmQxxsWxcmcKzQf4T13iReKh7eVfka2bMutLmkJ6n95YuxQGYAQl,180.0
+2023-12-29 06:00:00,2023-12-29 09:30:00,X-101/X-555,Olenya,Ukraine,90,87,kpszsu/posts/pfbid036Z7vJTUcXeQcFSmQxxsWxcmcKzQf4T13iReKh7eVfka2bMutLmkJ6n95YuxQGYAQl,210.0
+2023-12-29 05:00:00,2023-12-29 09:30:00,X-22 and X-32,Kursk oblast,north and center,8,0,kpszsu/posts/pfbid036Z7vJTUcXeQcFSmQxxsWxcmcKzQf4T13iReKh7eVfka2bMutLmkJ6n95YuxQGYAQl,270.0
+2023-12-29 05:00:00,2023-12-29 09:30:00,C-300/C-400 and Iskander-M,Kursk oblast and Bryansk oblast,Kharkiv oblast,14,0,kpszsu/posts/pfbid036Z7vJTUcXeQcFSmQxxsWxcmcKzQf4T13iReKh7eVfka2bMutLmkJ6n95YuxQGYAQl,270.0
+2023-12-28 23:00:00,2023-12-29 06:00:00,Shahed-136/131,north and south-east,Ukraine,36,27,kpszsu/posts/pfbid036Z7vJTUcXeQcFSmQxxsWxcmcKzQf4T13iReKh7eVfka2bMutLmkJ6n95YuxQGYAQl,420.0
+2023-12-26 19:00:00,2023-12-27 03:50:00,Shahed-136/131,"Primorsko-Akhtarsk and Balaklava, Crimea",Ukraine,46,32,kpszsu/posts/pfbid02kYYRVmMFPRseECVGLGEQgtiQFutALUV5JNVNoYFGEQX4m5NcC2FTkpeRY8upxE5Cl,530.0
+2023-12-22 18:00:00,2023-12-23 00:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Balaklava, Crimea",Ukraine,9,9,kpszsu/posts/pfbid021bMCbmXpzQLXgguNHxjon32NPupr8BLGZLkdqs6wWzoEKAJFA2VLdBg65b8u5u2Gl,360.0
+2023-12-20 20:00:00,2023-12-21 03:30:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast",Ukraine,35,34,kpszsu/posts/pfbid05kV4zmy4kCxwFPYZT2SbWW8fS421dVqknL26LEeS6bAQ58KKmWWpNfRuGsVUj3CJl,450.0
+2023-12-13 19:00:00,2023-12-14 08:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Balaklava, Crimea",south,42,41,kpszsu/posts/pfbid0q1uobo9e6yLfKBEqHmiWrD1s5f4bALLz9iCXGxhjBC8E5UFie4dgd1h2NzATZ5Zrl,780.0
+2023-12-13 03:00:00,2023-12-13 05:00:00,C-400 and Iskander-M,north,Kyiv,10,10,kpszsu/posts/pfbid026eTqPfvcpY7o32vEP33kTZRuu4MYCy8GD5JycuFJJk4mdwwei9NbNX94uddStKH9l,120.0
+2023-12-11 04:00:00,2023-12-11 05:00:00,KAB,north,Kyiv,8,8,kpszsu/posts/pfbid02c8oTBwukVpZdrsqfyHFmjFNNm1Q8AQUSCe8Hn8FbyRmFzhwWgdNG6Gp3fHAkAkHel,60.0
+2023-12-08 06:00:00,2023-12-08 09:00:00,X-101/X-555,Saratov oblast,Dnipropetrovsk oblast and Kyiv oblast,19,14,kpszsu/posts/pfbid02VCFYRyQ5AjP4jb65dKjpMhBLB2ujxMUNyaboJJXLRRT2f1TQXbV3nCHA4W282vD2l,180.0
+2023-11-21 20:00:00,2023-11-22 03:00:00,X-22,south-east,Zaporizhzhia oblast,1,0,kpszsu/posts/pfbid0QrjTAWi9w8Z1NniZaTwMKK3xPK15vVJYEJ7zEHfLQTxFgANG1pGjPyFUmFeHi9QZl,420.0
+2023-11-21 20:00:00,2023-11-22 03:00:00,Shahed-136/131,Primorsko-Akhtarsk,Ukraine,14,14,kpszsu/posts/pfbid0QrjTAWi9w8Z1NniZaTwMKK3xPK15vVJYEJ7zEHfLQTxFgANG1pGjPyFUmFeHi9QZl,420.0
+2023-11-17 20:00:00,2023-11-18 04:00:00,Shahed-136/131,Primorsko-Akhtarsk and Kursk oblast,Ukraine,38,29,kpszsu/posts/pfbid0r9kNu4wv1WZ38Xt1rqm7BkrJhPhJkgoFaquvh9GTSdCQhaUxFzbbuVGUHHJse3WDl,480.0
+2023-11-10 19:00:00,2023-11-11 03:00:00,X-31,Black Sea,Ukraine,1,0,kpszsu/posts/pfbid0aBeJfoKNZJqxMmywjwLfMKRA8DTr91D5tpaZeFVLUkr4JkVLuZr48ZBvQZ6TSaYTl,480.0
+2023-11-10 19:00:00,2023-11-11 03:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast",Ukraine,31,19,kpszsu/posts/pfbid0aBeJfoKNZJqxMmywjwLfMKRA8DTr91D5tpaZeFVLUkr4JkVLuZr48ZBvQZ6TSaYTl,480.0
+2023-11-10 19:00:00,2023-11-11 03:00:00,P-800 Oniks,Crimea,Ukraine,1,0,kpszsu/posts/pfbid0aBeJfoKNZJqxMmywjwLfMKRA8DTr91D5tpaZeFVLUkr4JkVLuZr48ZBvQZ6TSaYTl,480.0
+2023-11-10 19:00:00,2023-11-11 03:00:00,C-300,Belgorod oblast,Ukraine,1,0,kpszsu/posts/pfbid0aBeJfoKNZJqxMmywjwLfMKRA8DTr91D5tpaZeFVLUkr4JkVLuZr48ZBvQZ6TSaYTl,480.0
+2023-11-05 20:00:00,2023-11-05 23:59:00,X-59,Kherson oblast,Mykolaiv oblast,1,1,kpszsu/posts/pfbid034D88Fg49wQHc9zsMz4ekW5GizgTvcjXb6TdxhXfyjYhn6qC49zFvCjXEdYPEXjo2l,239.0
+2023-11-05 20:00:00,2023-11-05 23:59:00,X-31,Kherson oblast,Ukraine,1,0,kpszsu/posts/pfbid034D88Fg49wQHc9zsMz4ekW5GizgTvcjXb6TdxhXfyjYhn6qC49zFvCjXEdYPEXjo2l,239.0
+2023-11-05 20:00:00,2023-11-05 23:59:00,Shahed-136/131,"Chauda, Crimea",Ukraine,22,15,kpszsu/posts/pfbid034D88Fg49wQHc9zsMz4ekW5GizgTvcjXb6TdxhXfyjYhn6qC49zFvCjXEdYPEXjo2l,239.0
+2023-11-05 20:00:00,2023-11-05 23:59:00,P-800 Oniks,Crimea,Ukraine,1,0,kpszsu/posts/pfbid034D88Fg49wQHc9zsMz4ekW5GizgTvcjXb6TdxhXfyjYhn6qC49zFvCjXEdYPEXjo2l,239.0
+2023-11-05 20:00:00,2023-11-05 23:59:00,Iskander-M,Crimea,Ukraine,1,0,kpszsu/posts/pfbid034D88Fg49wQHc9zsMz4ekW5GizgTvcjXb6TdxhXfyjYhn6qC49zFvCjXEdYPEXjo2l,239.0
+2023-11-04 17:00:00,2023-11-04 19:00:00,Iskander-K,,Dnipropetrovsk oblast and Poltava oblast,3,3,kpszsu/posts/pfbid0AqYXo3Exz6mud6hyJmn2e6LUkHtPAnu62L97KHhPdhp3xNt3RT7WN2cyiXSXzbUfl,120.0
+2023-10-18 20:00:00,2023-10-19 05:00:00,X-59,,"Dnipropetrovsk oblast, Kryvyi Rih Raion",1,1,kpszsu/posts/pfbid02hB8MwGCUpCqyHm7WkLdcQwLcLyjcxAM7dgztsf18THC26dqrvdw3J7p2b5ykk6Ucl,540.0
+2023-10-18 20:00:00,2023-10-19 05:00:00,Unknown Missile,,Ukraine,1,0,kpszsu/posts/pfbid02hB8MwGCUpCqyHm7WkLdcQwLcLyjcxAM7dgztsf18THC26dqrvdw3J7p2b5ykk6Ucl,540.0
+2023-10-18 20:00:00,2023-10-19 05:00:00,Shahed-136/131,,Ukraine,9,3,kpszsu/posts/pfbid02hB8MwGCUpCqyHm7WkLdcQwLcLyjcxAM7dgztsf18THC26dqrvdw3J7p2b5ykk6Ucl,540.0
+2023-10-18 20:00:00,2023-10-19 05:00:00,Iskander-M,,Ukraine,5,0,kpszsu/posts/pfbid02hB8MwGCUpCqyHm7WkLdcQwLcLyjcxAM7dgztsf18THC26dqrvdw3J7p2b5ykk6Ucl,540.0
+2023-10-18 20:00:00,2023-10-19 05:00:00,C-300,,Ukraine,1,0,kpszsu/posts/pfbid02hB8MwGCUpCqyHm7WkLdcQwLcLyjcxAM7dgztsf18THC26dqrvdw3J7p2b5ykk6Ucl,540.0
+2023-09-21 03:00:00,2023-09-21 09:00:00,X-101/X-555,Engels-2,Ukraine,43,36,kpszsu/posts/pfbid02jhEYAG61EFvdqXayMTUCCQU7DJuexcex7L7QwdKiXFNKrV43kzmKHYsXfgEoeu1Jl,360.0
+2023-09-13 21:00:00,2023-09-14 02:30:00,Shahed-136/131,"Chauda, Crimea and Kursk oblast and Yeysk",Dnipropetrovsk oblast and Zaporizhzhia oblast and Mykolaiv oblast and Sumy oblast,22,17,kpszsu/posts/pfbid02QzzYCHxhfGxm5ACMoysUDNKrGP2UpMqPvxtGRdbMQHx86xecztcPxua1XUdyyh9ql,330.0
+2023-08-19 01:00:00,2023-08-19 05:00:00,Shahed-136/131,Kursk oblast,Ukraine,17,15,kpszsu/posts/pfbid02aoR8trkT5EtxwqdhBLgcFHUUuzo8XoWvEpyYTp7CLFpDePTRD5d6kWcStk8zzLL7l,240.0
+2023-08-16 02:00:00,2023-08-16 05:00:00,Shahed-136/131,,Kharkiv oblast,3,3,pvkshid/posts/pfbid02P5ukn9sREyLZtwoG8p8q2yT3q8a7yboyrDjn57rFtequxbHKVKXrHKvdTgTkLCbzl,180.0
+2023-08-15 22:00:00,2023-08-16 05:00:00,Shahed-136/131,"Primorsko-Akhtarsk and Chauda, Crimea",Odesa oblast,13,13,kpszsu/posts/pfbid02ERDUJ3Bi7i8kyny1iojLo5S2DaEXnXxK1ewnwBmNfakn9Lz8j9U7D1MkS8kHgwBSl,420.0
+2023-08-15 03:00:00,2023-08-15 06:00:00,X-22,Soltsy-2 and Shaykovka,Ukraine,4,0,kpszsu/posts/pfbid02u5WwAk89ivUogMeMXMtMy66t1nSMZDphse8akxaoSon6s91vfzW8QhN6X3S94gdil,180.0
+2023-08-15 03:00:00,2023-08-15 06:00:00,X-101/X-555,Engels-2 and Olenya,Ukraine,20,14,kpszsu/posts/pfbid02u5WwAk89ivUogMeMXMtMy66t1nSMZDphse8akxaoSon6s91vfzW8QhN6X3S94gdil,180.0
+2023-08-15 03:00:00,2023-08-15 06:00:00,Kalibr,"Black Sea, Yalta",Ukraine,4,2,kpszsu/posts/pfbid02u5WwAk89ivUogMeMXMtMy66t1nSMZDphse8akxaoSon6s91vfzW8QhN6X3S94gdil,180.0
+2023-08-15 03:00:00,2023-08-15 06:00:00,C-300/C-400,,Dnipropetrovsk oblast and Zaporizhzhia oblast,8,0,kpszsu/posts/pfbid02u5WwAk89ivUogMeMXMtMy66t1nSMZDphse8akxaoSon6s91vfzW8QhN6X3S94gdil,180.0
+2023-08-14 14:00:00,2023-08-14 14:30:00,X-47 Kinzhal,Savasleyka,Kyiv and Starokostiantyniv,3,1,kpszsu/posts/pfbid023Vo3R9tGY26LLmiAJJH7qiN2tGEucEU2j8cY8HmQn7Sh7873Zz7xMG9SAjX1cx9gl,30.0
+2023-08-14 01:00:00,2023-08-14 03:00:00,Shahed-136/131,Primorsko-Akhtarsk,Odesa oblast,15,15,kpszsu/posts/pfbid07kB5N4kC3oiXTvDEYy5qsdmfY7XZQ5dHNv9s4cwmZVk8CaQRq2jnemSZ2HgKPKMfl,120.0
+2023-08-14 01:00:00,2023-08-14 03:00:00,Kalibr,"Black Sea, Yalta",Odesa oblast,8,8,kpszsu/posts/pfbid07kB5N4kC3oiXTvDEYy5qsdmfY7XZQ5dHNv9s4cwmZVk8CaQRq2jnemSZ2HgKPKMfl,120.0
+2023-08-12 01:30:00,2023-08-12 03:30:00,Shahed-136/131,south-east,Zaporizhzhia oblast,5,3,kpszsu/posts/pfbid0vzoTQnBMeEHbFiPnNLDaL5ba4yngu56EjcRS7PKuUeG1FCrT8G6mLSfGvzzPjwnPl,120.0
+2023-08-11 09:00:00,2023-08-11 10:30:00,X-47 Kinzhal,Tula oblast and Lipetsk oblast,Kolomyia,4,1,kpszsu/posts/pfbid023Vo3R9tGY26LLmiAJJH7qiN2tGEucEU2j8cY8HmQn7Sh7873Zz7xMG9SAjX1cx9gl,90.0
+2023-08-10 23:00:00,2023-08-11 04:00:00,Shahed-136/131,south-east,Ukraine,10,7,kpszsu/posts/pfbid02xjvkgHc6XHCis3kWpZK82FrK5zjPNQcAHDbEecDefUMrszhUMu1HxYThVMAhtxkYl,300.0
+2023-08-05 22:00:00,2023-08-06 05:00:00,X-101/X-555,Caspian Sea,Ukraine,20,13,kpszsu/posts/pfbid025rdabDT54nYrng1FMM3dun272VfG2MCwztSKRVLcMbwwpZTVHKcz3BowRQ8yNaUWl,420.0
+2023-08-05 22:00:00,2023-08-06 05:00:00,Shahed-136/131,south-east,Ukraine,27,27,kpszsu/posts/pfbid025rdabDT54nYrng1FMM3dun272VfG2MCwztSKRVLcMbwwpZTVHKcz3BowRQ8yNaUWl,420.0
+2023-08-05 22:00:00,2023-08-06 05:00:00,Kalibr,Black Sea,Ukraine,6,5,kpszsu/posts/pfbid025rdabDT54nYrng1FMM3dun272VfG2MCwztSKRVLcMbwwpZTVHKcz3BowRQ8yNaUWl,420.0
+2023-08-05 18:00:00,2023-08-05 19:40:00,X-47 Kinzhal,,Ukraine,3,0,kpszsu/posts/pfbid025rdabDT54nYrng1FMM3dun272VfG2MCwztSKRVLcMbwwpZTVHKcz3BowRQ8yNaUWl,100.0
+2023-08-05 18:00:00,2023-08-05 19:40:00,Kalibr,Black Sea,Ukraine,14,13,kpszsu/posts/pfbid025rdabDT54nYrng1FMM3dun272VfG2MCwztSKRVLcMbwwpZTVHKcz3BowRQ8yNaUWl,100.0
+2023-07-26 19:00:00,2023-07-26 20:30:00,X-47 Kinzhal,,Khmelnytskyi oblast,4,0,kpszsu/posts/pfbid02c2NXXBzWPSBPCD9139oMqSuBSG717LmV6n2iMWgoJHKhLo2t4GcqUovUp7VCdLE2l,90.0
+2023-07-26 17:00:00,2023-07-26 20:30:00,X-101/X-555,Caspian Sea,Ukraine,36,33,kpszsu/posts/pfbid0FJryxF5kgD8MV2DdX6dsTMganBHgS2n1GFqqKfxy4NMNq1w5NY9KyJJcypAi8Wdcl,210.0
+2023-07-26 13:00:00,2023-07-26 15:00:00,Kalibr,Black Sea,Vinnytsia oblast,3,3,kpszsu/posts/pfbid0eT48d2mvLi9nBCwxzNVQ1SqDBjqMGnC7MKfufB2RMSdkTRaapcDuudeLhCDNoguVl,120.0
+2023-07-13 22:00:00,2023-07-14 04:00:00,Shahed-136/131,Primorsko-Akhtarsk,Ukraine,17,16,kpszsu/posts/pfbid02PA3NBWQRaSG9KYfocoYaPyYfeAyqstEVc9hBi4auEtnqQQBpzCY26fhJH2EHCjG4l,360.0
+2023-07-13 22:00:00,2023-07-14 04:00:00,Reconnaissance UAV,,Ukraine,1,1,kpszsu/posts/pfbid02PA3NBWQRaSG9KYfocoYaPyYfeAyqstEVc9hBi4auEtnqQQBpzCY26fhJH2EHCjG4l,360.0
+2023-07-06 01:00:00,2023-07-06 03:00:00,Kalibr,Black Sea,Lviv oblast,10,7,kpszsu/posts/pfbid02tqjccggcc9VDG1tYeXvwyG7nHbdKyQPh7c44dHP15Yq5KSRPWQYd1oz4nvmKSCucl,120.0
+2023-06-15 00:20:00,2023-06-15 04:30:00,X-101/X-555,Caspian Sea,Dnipropetrovsk oblast,4,1,kpszsu/posts/pfbid02bG2bkZB15BfBzEGTz6HstJ88sPxussZaX7VsYwGg8iebMrXitcD4e2qmsxvuZqcCl,250.0
+2023-06-15 00:20:00,2023-06-15 04:30:00,Shahed-136/131,,Ukraine,20,20,kpszsu/posts/pfbid02bG2bkZB15BfBzEGTz6HstJ88sPxussZaX7VsYwGg8iebMrXitcD4e2qmsxvuZqcCl,250.0
+2023-06-09 23:00:00,2023-06-10 05:00:00,Unknown Missile,,Ukraine,8,2,kpszsu/posts/pfbid02sBccedrDaapnwNF7wVpfnWVKAijBLvoVcWSrdSudGVJgMFkhWJjeWRQWGjJU11E1l,360.0
+2023-06-09 23:00:00,2023-06-10 05:00:00,Shahed-136/131,,Ukraine,35,20,kpszsu/posts/pfbid02sBccedrDaapnwNF7wVpfnWVKAijBLvoVcWSrdSudGVJgMFkhWJjeWRQWGjJU11E1l,360.0
+2023-06-08 22:00:00,2023-06-09 04:00:00,X-101/X-555,Caspian Sea,Ukraine,6,4,kpszsu/posts/pfbid0aqTDjprsEAgaWkFX7iNdaPBDGxms7B1k9QjufHezEh9Thi8QSBfGhNporFPS35G9l,360.0
+2023-06-08 22:00:00,2023-06-09 04:00:00,Shahed-136/131 and Lancet,south,Ukraine,16,10,kpszsu/posts/pfbid0aqTDjprsEAgaWkFX7iNdaPBDGxms7B1k9QjufHezEh9Thi8QSBfGhNporFPS35G9l,360.0
+2023-06-08 22:00:00,2023-06-09 04:00:00,Orlan-10 and Supercam,south,Ukraine,4,4,kpszsu/posts/pfbid0aqTDjprsEAgaWkFX7iNdaPBDGxms7B1k9QjufHezEh9Thi8QSBfGhNporFPS35G9l,360.0
+2023-06-06 00:30:00,2023-06-06 04:00:00,X-101/X-555,Caspian Sea,Ukraine,35,35,kpszsu/posts/pfbid02T3ydkmtPv8qhUaKnnffC997phR5yaZy5a2uD2Htn3QehbqyeBbYkJjCHMyCb4KMBl,210.0
+2023-06-04 01:00:00,2023-06-04 04:00:00,X-101/X-555,Caspian Sea,Ukraine,6,4,kpszsu/posts/pfbid0TbY8FA4pcJjd6rpfP3yHbyFuKJFe1sVWrY4ut3aikesrx7A46BoFpvcNw4Xi5Y9Ml,180.0
+2023-06-04 01:00:00,2023-06-04 04:00:00,Shahed-136/131,Bryansk oblast,Ukraine,5,3,kpszsu/posts/pfbid0TbY8FA4pcJjd6rpfP3yHbyFuKJFe1sVWrY4ut3aikesrx7A46BoFpvcNw4Xi5Y9Ml,180.0
+2023-06-02 02:00:00,2023-06-02 04:30:00,X-101/X-555,Caspian Sea,Kyiv oblast (south),15,15,kpszsu/posts/pfbid0bX6JnH59foQok3EqsY67BXCYhfVaT3DcGrsHbi84D5gaUNGoiGJVpNHD1yTCQgxTl,150.0
+2023-06-01 23:00:00,2023-06-02 04:30:00,Shahed-136/131,,Kyiv oblast (south),21,21,kpszsu/posts/pfbid0bX6JnH59foQok3EqsY67BXCYhfVaT3DcGrsHbi84D5gaUNGoiGJVpNHD1yTCQgxTl,330.0
+2023-06-01 02:30:00,2023-06-01 06:00:00,Iskander-M,Bryansk oblast,Kyiv oblast,7,7,kpszsu/posts/pfbid01CxRw4Y7zWNeaTzohtZgC1CQBuRtYdZkpGQr4ya4uT2ESRnypVJL9j6exqqyUzA6l,210.0
+2023-06-01 02:30:00,2023-06-01 06:00:00,Iskander-K,Bryansk oblast,Kyiv oblast,3,3,kpszsu/posts/pfbid01CxRw4Y7zWNeaTzohtZgC1CQBuRtYdZkpGQr4ya4uT2ESRnypVJL9j6exqqyUzA6l,210.0
+2023-05-29 23:30:00,2023-05-30 04:30:00,Shahed-136/131,north and south,Ukraine,31,29,kpszsu/posts/pfbid0MJmmdbmrydbLXcYN62qma1AmUZUYguKu2KdAUMETSS69YvghuxxJuEHSSk13AaRYl,300.0
+2023-05-29 11:00:00,2023-05-29 11:30:00,Iskander-M and Iskander-K,north,Kyiv oblast,11,11,kpszsu/posts/pfbid0gN63ZZomAfkuZ1V12DYXrz7yiYk7BkzALiaLH6nfFMdEZFimtiVCCxW3Xv3kcpYDl,30.0
+2023-05-29 00:00:00,2023-05-29 05:00:00,X-101/X-555,Caspian Sea,Ukraine,40,37,kpszsu/posts/pfbid02RLNV7QyRehfEyevpL4SMYACeKJRB7qhPokEkNun31wyWraskYv9gK9fqUFdqYv9Ql,300.0
+2023-05-29 00:00:00,2023-05-29 05:00:00,Unknown UAV,north and south,Ukraine,1,1,kpszsu/posts/pfbid02RLNV7QyRehfEyevpL4SMYACeKJRB7qhPokEkNun31wyWraskYv9gK9fqUFdqYv9Ql,300.0
+2023-05-29 00:00:00,2023-05-29 05:00:00,Shahed-136/131,north and south,Ukraine,35,29,kpszsu/posts/pfbid02RLNV7QyRehfEyevpL4SMYACeKJRB7qhPokEkNun31wyWraskYv9gK9fqUFdqYv9Ql,300.0
+2023-05-25 22:00:00,2023-05-26 05:00:00,X-101/X-555,Caspian Sea,Ukraine,10,10,kpszsu/posts/pfbid0Sie5Cf3Y5BG1ej6Y1b3R1CQFxXYqgU576Ssgh8KoxUGK5o7cVhjxQWZQy3Tw6pZel,420.0
+2023-05-25 22:00:00,2023-05-26 05:00:00,Shahed-136/131,north and south,Ukraine,31,23,kpszsu/posts/pfbid0Sie5Cf3Y5BG1ej6Y1b3R1CQFxXYqgU576Ssgh8KoxUGK5o7cVhjxQWZQy3Tw6pZel,420.0
+2023-05-25 22:00:00,2023-05-26 05:00:00,Orlan-10,,Ukraine,1,1,kpszsu/posts/pfbid0Sie5Cf3Y5BG1ej6Y1b3R1CQFxXYqgU576Ssgh8KoxUGK5o7cVhjxQWZQy3Tw6pZel,420.0
+2023-05-25 22:00:00,2023-05-26 05:00:00,Merlin-VR,,Ukraine,1,1,kpszsu/posts/pfbid0Sie5Cf3Y5BG1ej6Y1b3R1CQFxXYqgU576Ssgh8KoxUGK5o7cVhjxQWZQy3Tw6pZel,420.0
+2023-05-25 22:00:00,2023-05-26 05:00:00,C-300/C-400,Tokmak,Dnipropetrovsk oblast,7,0,kpszsu/posts/pfbid0Sie5Cf3Y5BG1ej6Y1b3R1CQFxXYqgU576Ssgh8KoxUGK5o7cVhjxQWZQy3Tw6pZel,420.0
+2023-05-22 02:30:00,2023-05-22 05:30:00,X-22,Kursk oblast and Sea of Azov,Ukraine,5,0,kpszsu/posts/pfbid0hs89Jjw8gVVJofnKddfMA7fpPuEHyrSPB4VHfKjTwpW8mdp8kCWqGt4fRWvMjkHfl,180.0
+2023-05-22 02:30:00,2023-05-22 05:30:00,X-101/X-555,Caspian Sea,Ukraine,4,4,kpszsu/posts/pfbid0hs89Jjw8gVVJofnKddfMA7fpPuEHyrSPB4VHfKjTwpW8mdp8kCWqGt4fRWvMjkHfl,180.0
+2023-05-22 02:30:00,2023-05-22 05:30:00,Shahed-136/131,,Ukraine,20,20,kpszsu/posts/pfbid0hs89Jjw8gVVJofnKddfMA7fpPuEHyrSPB4VHfKjTwpW8mdp8kCWqGt4fRWvMjkHfl,180.0
+2023-05-22 02:30:00,2023-05-22 05:30:00,Iskander-M,Crimea,Ukraine,2,0,kpszsu/posts/pfbid0hs89Jjw8gVVJofnKddfMA7fpPuEHyrSPB4VHfKjTwpW8mdp8kCWqGt4fRWvMjkHfl,180.0
+2023-05-22 02:30:00,2023-05-22 05:30:00,C-300,Zaporizhzhia oblast,Ukraine,5,0,kpszsu/posts/pfbid0hs89Jjw8gVVJofnKddfMA7fpPuEHyrSPB4VHfKjTwpW8mdp8kCWqGt4fRWvMjkHfl,180.0
+2023-05-20 21:00:00,2023-05-20 23:59:00,Shahed-136/131,,east,4,4,kpszsu/posts/pfbid0383i1m9TQTbyGXCJaRLQWg4VXQyymVp7D1m3FF2iqD1pnF64poP8sbuSGyMzkX1cCl,179.0
+2023-05-17 21:00:00,2023-05-18 05:30:00,X-101/X-555,,Ukraine,22,21,kpszsu/posts/pfbid0KDyjrTAQvrkAbAp5U2b8XB6XHLPK2FhgGPSTERFP1uArfrLisiVMwaNYUNpCch16l,510.0
+2023-05-17 21:00:00,2023-05-18 05:30:00,Unknown UAV,,Ukraine,2,2,kpszsu/posts/pfbid0KDyjrTAQvrkAbAp5U2b8XB6XHLPK2FhgGPSTERFP1uArfrLisiVMwaNYUNpCch16l,510.0
+2023-05-17 21:00:00,2023-05-18 05:30:00,Shahed-136/131,,Ukraine,2,2,kpszsu/posts/pfbid0KDyjrTAQvrkAbAp5U2b8XB6XHLPK2FhgGPSTERFP1uArfrLisiVMwaNYUNpCch16l,510.0
+2023-05-17 21:00:00,2023-05-18 05:30:00,Kalibr,Black Sea,Ukraine,6,6,kpszsu/posts/pfbid0KDyjrTAQvrkAbAp5U2b8XB6XHLPK2FhgGPSTERFP1uArfrLisiVMwaNYUNpCch16l,510.0
+2023-05-17 21:00:00,2023-05-18 05:30:00,Iskander-K,,Ukraine,2,2,kpszsu/posts/pfbid0KDyjrTAQvrkAbAp5U2b8XB6XHLPK2FhgGPSTERFP1uArfrLisiVMwaNYUNpCch16l,510.0
+2023-05-16 03:30:00,2023-05-16 07:00:00,X-47 Kinzhal,,Ukraine,6,6,kpszsu/posts/pfbid0ghJSYEmPHYu24PRkc5KdmSjCofS1FQ4LdgmkxBZYkx7ht35UYavurH74MG2fibBrl,210.0
+2023-05-16 03:30:00,2023-05-16 07:00:00,Supercam,,Ukraine,2,2,kpszsu/posts/pfbid0ghJSYEmPHYu24PRkc5KdmSjCofS1FQ4LdgmkxBZYkx7ht35UYavurH74MG2fibBrl,210.0
+2023-05-16 03:30:00,2023-05-16 07:00:00,Shahed-136/131,,Ukraine,6,6,kpszsu/posts/pfbid0ghJSYEmPHYu24PRkc5KdmSjCofS1FQ4LdgmkxBZYkx7ht35UYavurH74MG2fibBrl,210.0
+2023-05-16 03:30:00,2023-05-16 07:00:00,Orlan-10,,Ukraine,1,1,kpszsu/posts/pfbid0ghJSYEmPHYu24PRkc5KdmSjCofS1FQ4LdgmkxBZYkx7ht35UYavurH74MG2fibBrl,210.0
+2023-05-16 03:30:00,2023-05-16 07:00:00,Kalibr,Black Sea,Ukraine,9,9,kpszsu/posts/pfbid0ghJSYEmPHYu24PRkc5KdmSjCofS1FQ4LdgmkxBZYkx7ht35UYavurH74MG2fibBrl,210.0
+2023-05-16 03:30:00,2023-05-16 07:00:00,C-400 and Iskander-M,,Ukraine,10,10,kpszsu/posts/pfbid0ghJSYEmPHYu24PRkc5KdmSjCofS1FQ4LdgmkxBZYkx7ht35UYavurH74MG2fibBrl,210.0
+2023-05-14 00:00:00,2023-05-14 07:00:00,X-101/X-555,,Ukraine,3,3,kpszsu/posts/pfbid0ggY2Z7ZfGX3HkG9ND9FSPDshugXSVfaqnFFT8HBbAnSnLDTy2LmYZoA8g6djA4T2l,420.0
+2023-05-14 00:00:00,2023-05-14 07:00:00,Unknown UAV,,Ukraine,4,4,kpszsu/posts/pfbid0ggY2Z7ZfGX3HkG9ND9FSPDshugXSVfaqnFFT8HBbAnSnLDTy2LmYZoA8g6djA4T2l,420.0
+2023-05-14 00:00:00,2023-05-14 07:00:00,Shahed-136/131,,Ukraine,18,18,kpszsu/posts/pfbid0ggY2Z7ZfGX3HkG9ND9FSPDshugXSVfaqnFFT8HBbAnSnLDTy2LmYZoA8g6djA4T2l,420.0
+2023-05-14 00:00:00,2023-05-14 07:00:00,Orlan-10,,Ukraine,2,2,kpszsu/posts/pfbid0ggY2Z7ZfGX3HkG9ND9FSPDshugXSVfaqnFFT8HBbAnSnLDTy2LmYZoA8g6djA4T2l,420.0
+2023-05-14 00:00:00,2023-05-14 07:00:00,Lancet,,Ukraine,1,1,kpszsu/posts/pfbid0ggY2Z7ZfGX3HkG9ND9FSPDshugXSVfaqnFFT8HBbAnSnLDTy2LmYZoA8g6djA4T2l,420.0
+2023-05-13 00:00:00,2023-05-13 06:00:00,Shahed-136/131,,Ukraine,21,17,kpszsu/posts/pfbid0EUf7C7dyUGpd13K98kXNkh5Y4gg74CZTpwT8JfiPL7JkYB2SJw88BGestv9cUSrxl,360.0
+2023-05-13 00:00:00,2023-05-13 06:00:00,Orlan-10,,Ukraine,1,1,kpszsu/posts/pfbid0EUf7C7dyUGpd13K98kXNkh5Y4gg74CZTpwT8JfiPL7JkYB2SJw88BGestv9cUSrxl,360.0
+2023-05-09 04:00:00,2023-05-09 06:00:00,X-101/X-555,Caspian Sea,Ukraine,17,15,kpszsu/posts/pfbid0C5rD37XpUVY66TQvvh1KWM3Bz2wVmByL5uDa6dGAjvc9rQE7gHi6MWzA1uEqqSiUl,120.0
+2023-05-02 22:30:00,2023-05-03 05:00:00,Shahed-136/131,Bryansk oblast and eastern coast of Sea of Azov,Ukraine,26,21,kpszsu/posts/pfbid036MBz2hLGvL5nu6hny9Yv79tETxLn917nkPGnPdvhU6zmBcnmUwPzJjLhS51Kxveul,390.0
+2023-05-01 02:00:00,2023-05-01 04:00:00,X-101/X-555,Olenegorsk and Caspian Sea,Ukraine,18,15,kpszsu/posts/pfbid0cWdLNjfwysxXhyweXLAJLZHhHoitjzJZMaMGz3SbU8DLN2DBBNPfVSoR2gyf1fnpl,120.0
+2023-04-28 04:00:00,2023-04-28 06:00:00,X-101/X-555,Caspian Sea,Ukraine,23,21,kpszsu/posts/pfbid0cWdLNjfwysxXhyweXLAJLZHhHoitjzJZMaMGz3SbU8DLN2DBBNPfVSoR2gyf1fnpl,120.0
+2023-04-28 04:00:00,2023-04-28 06:00:00,Unknown UAV,,Ukraine,2,2,kpszsu/posts/pfbid0cWdLNjfwysxXhyweXLAJLZHhHoitjzJZMaMGz3SbU8DLN2DBBNPfVSoR2gyf1fnpl,120.0
+2023-04-21 19:00:00,2023-04-21 23:50:00,Shahed-136/131,south-east,,5,4,kpszsu/posts/pfbid02ouft79RhQtCP2SuAq6tG6mkN6TxoeHearKkujAtsys4FaWeknhFejgfcUQYajnqFl,290.0
+2023-04-19 21:00:00,2023-04-20 00:20:00,Shahed-136/131,south-east,,11,10,kpszsu/posts/pfbid02K4npJgPxeb3k7gFsMS3dQKamcADiPpN6XYdcdtG3jgnjcsjS6vQbqg8RVgNW7kH9l,200.0
+2023-03-30 21:10:00,2023-03-31 01:30:00,Shahed-136/131,Bryansk oblast,,10,9,kpszsu/posts/pfbid0b6i2XPMG2vi6bg4a4SSMB8zo7eZY9YRj5R7JK3UCmNokTp4et9pUUokBrdocidP7l,260.0
+2023-03-27 21:40:00,2023-03-27 23:50:00,Shahed-136/131,north and south-east,,13,12,kpszsu/posts/pfbid02Nxjn4XnkVbatmymR38DzJiCU2BKBegRrj3TiyCYB1aQj2pio6dcXiPx6yTqTJ2n4l,130.0
+2023-03-27 21:40:00,2023-03-27 23:50:00,KAB,Morozovsk,Kherson oblast,2,0,kpszsu/posts/pfbid02Nxjn4XnkVbatmymR38DzJiCU2BKBegRrj3TiyCYB1aQj2pio6dcXiPx6yTqTJ2n4l,130.0
+2023-03-27 21:40:00,2023-03-27 23:50:00,Granat-4,,,1,1,kpszsu/posts/pfbid02Nxjn4XnkVbatmymR38DzJiCU2BKBegRrj3TiyCYB1aQj2pio6dcXiPx6yTqTJ2n4l,130.0
+2023-03-21 23:30:00,2023-03-22 04:00:00,Shahed-136/131,Bryansk oblast,,21,16,kpszsu/posts/pfbid024iAXyJnPeP1hdqUGHEHiwYjCe6KQaDDagdwNW3uum9shiy8kZYQdthvjrNDrardel,270.0
+2023-03-17 21:00:00,2023-03-18 01:30:00,Shahed-136/131,Bryansk oblast and eastern coast of Sea of Azov,,16,11,kpszsu/posts/pfbid0gA9z7xKgZfqjtDQiB29KDkVYW13GVCiWm2593mMpp75wUu7J81hAbZuR2859pbSXl,270.0
+2023-02-16 01:40:00,2023-02-16 03:45:00,X-59,Melitopol,Ukraine,1,1,CinCAFU/posts/pfbid0242PuE8UQ8wDFAhKsPFLMiUwerhwf8SMJiahW2Vfc9Gzfi9akBowWAgrfBPdasy9yl,125.0
+2023-02-16 01:40:00,2023-02-16 03:45:00,X-31,Melitopol,Ukraine,1,1,CinCAFU/posts/pfbid0242PuE8UQ8wDFAhKsPFLMiUwerhwf8SMJiahW2Vfc9Gzfi9akBowWAgrfBPdasy9yl,125.0
+2023-02-16 01:40:00,2023-02-16 03:45:00,X-22,Kursk oblast,Ukraine,12,0,CinCAFU/posts/pfbid0242PuE8UQ8wDFAhKsPFLMiUwerhwf8SMJiahW2Vfc9Gzfi9akBowWAgrfBPdasy9yl,125.0
+2023-02-16 01:40:00,2023-02-16 03:45:00,X-101/X-555,Caspian Sea,Ukraine,12,10,CinCAFU/posts/pfbid0242PuE8UQ8wDFAhKsPFLMiUwerhwf8SMJiahW2Vfc9Gzfi9akBowWAgrfBPdasy9yl,125.0
+2023-02-16 01:40:00,2023-02-16 03:45:00,P-800 Oniks,,Ukraine,1,0,CinCAFU/posts/pfbid0242PuE8UQ8wDFAhKsPFLMiUwerhwf8SMJiahW2Vfc9Gzfi9akBowWAgrfBPdasy9yl,125.0
+2023-02-16 01:40:00,2023-02-16 03:45:00,Kalibr,Black Sea,Ukraine,8,4,CinCAFU/posts/pfbid0242PuE8UQ8wDFAhKsPFLMiUwerhwf8SMJiahW2Vfc9Gzfi9akBowWAgrfBPdasy9yl,125.0
+2023-02-11 18:40:00,2023-02-11 21:30:00,Shahed-136/131,eastern coast of Sea of Azov,,4,4,kpszsu/posts/pfbid0rzDv4jSfTUPfW4FrSqM45fdm8348LiLc9Cs5T4fcCwDE8XNMGvaQ8WL83DQ7PRzfl,170.0
+2023-02-11 18:40:00,2023-02-11 21:30:00,Orlan-10,eastern coast of Sea of Azov,,1,1,kpszsu/posts/pfbid0rzDv4jSfTUPfW4FrSqM45fdm8348LiLc9Cs5T4fcCwDE8XNMGvaQ8WL83DQ7PRzfl,170.0
+2023-02-10 18:00:00,2023-02-10 23:55:00,Shahed-136/131,eastern coast of Sea of Azov,Ukraine,20,20,kpszsu/posts/pfbid0KYrLkzPVQ1XWpphBWQQJKZdMga3PJTV7u3RyRVpr6knnNHVj9Pb88gmQTsdiYLoal,355.0
+2023-02-09 21:50:00,2023-02-10 12:00:00,X-101/X-555,Caspian Sea and Volgodonsk,Ukraine,43,38,CinCAFU/posts/pfbid02VC6dnzG4ivHMHfXpQUvBWvizavn643ddmBvf3T9CVEf7ZPEZCZaivYgo9g9VmDEyl,850.0
+2023-02-09 21:50:00,2023-02-10 12:00:00,Shahed-136/131,eastern coast of Sea of Azov,Ukraine,7,5,CinCAFU/posts/pfbid02VC6dnzG4ivHMHfXpQUvBWvizavn643ddmBvf3T9CVEf7ZPEZCZaivYgo9g9VmDEyl,850.0
+2023-02-09 21:50:00,2023-02-10 12:00:00,Kalibr,Black Sea,Ukraine,28,23,CinCAFU/posts/pfbid02VC6dnzG4ivHMHfXpQUvBWvizavn643ddmBvf3T9CVEf7ZPEZCZaivYgo9g9VmDEyl,850.0
+2023-02-09 21:50:00,2023-02-10 12:00:00,C-300,Belgorod and Tokmak,Kharkiv oblast and Zaporizhzhia oblast,35,0,CinCAFU/posts/pfbid02VC6dnzG4ivHMHfXpQUvBWvizavn643ddmBvf3T9CVEf7ZPEZCZaivYgo9g9VmDEyl,850.0
+2023-01-25 09:00:00,2023-01-25 12:00:00,Orlan-10,,east,1,1,kpszsu/posts/pfbid02WyyV7bsxs82CXgrLk5p4SWt4eNnNbihRkmXMEbbUjfZHHBiXoDNgwvjxVMLZDiX5l,180.0
+2023-01-23 10:00:00,2023-01-23 16:00:00,X-59,,east,2,2,kpszsu/posts/pfbid02tfreFvv7ptPsRG6sQUysCPb4UETxp5mzETxhipxcp4xcn48fetVhBFiN2jSCHyF1l,360.0
+2023-01-23 10:00:00,2023-01-23 16:00:00,Orlan-10,,east,1,1,kpszsu/posts/pfbid02tfreFvv7ptPsRG6sQUysCPb4UETxp5mzETxhipxcp4xcn48fetVhBFiN2jSCHyF1l,360.0
+2023-01-11 11:00:00,2023-01-11 14:00:00,Orlan-10,,south,1,1,kpszsu/posts/pfbid02J6yhbpmiVnKLio6c9fqzHhZL3Vp2XG9RjM3AqSv9TfyNsy14TXvnkDqtyQU8bpQMl,180.0
+2023-01-11 11:00:00,2023-01-11 14:00:00,Orlan-10,,south,1,1,kpszsu/posts/pfbid02SNdSswZstsXrjNz9ScYtcjzXhshXUBzaxNWKpmDjSkjrZ7ZV7RshzjWQ2TM1fxPwl,180.0
+2022-12-31 13:00:00,2022-12-31 16:00:00,Unknown Missile,Caspian Sea,Ukraine,20,12,kpszsu/posts/pfbid02BJwxSbgrwKzGEsK6jyhJbph7RRXXUgW9XvPGpcVjQBwsMwHaGqqCf3NMRGShXQdJl,180.0
+2022-12-31 13:00:00,2022-12-31 16:00:00,Orlan-10,,Kyiv oblast,1,1,kpszsu/posts/pfbid02BJwxSbgrwKzGEsK6jyhJbph7RRXXUgW9XvPGpcVjQBwsMwHaGqqCf3NMRGShXQdJl,180.0
+2022-12-29 07:00:00,2022-12-29 10:00:00,X-31P,,Ukraine,2,0,kpszsu/posts/pfbid0S4cPcxaKz4wykVGh6CeuPaHYCBExNNipnLw2j8qvqDri9iMaegQUEL9SpB1ZtW76l,180.0
+2022-12-29 07:00:00,2022-12-29 10:00:00,X-22 and X-32,,Ukraine,6,0,kpszsu/posts/pfbid0S4cPcxaKz4wykVGh6CeuPaHYCBExNNipnLw2j8qvqDri9iMaegQUEL9SpB1ZtW76l,180.0
+2022-12-29 07:00:00,2022-12-29 10:00:00,X-101/X-555 and Kalibr,Caspian Sea and Volgodonsk and Black Sea,Ukraine,62,58,kpszsu/posts/pfbid0S4cPcxaKz4wykVGh6CeuPaHYCBExNNipnLw2j8qvqDri9iMaegQUEL9SpB1ZtW76l,180.0
+2022-12-20 13:00:00,2022-12-20 14:00:00,Unknown UAV,,Mykolaiv oblast,1,1,PvKPivden/videos/877352513463110,60.0
+2022-12-20 13:00:00,2022-12-20 14:00:00,Orion,,Kherson oblast,1,1,PvKPivden/videos/877352513463110,60.0
+2022-11-14 10:00:00,2022-11-14 11:00:00,Unknown UAV,,south,2,2,kpszsu/posts/pfbid0i3v3KWwzHpPZKaShVxi6tFuvhrquVUF3XSttrSh2jJ3NHxRihwhKwiCJjHMe9cWZl,60.0
+2022-11-03 22:00:00,2022-11-04 01:00:00,Shahed-136/131,,east,9,9,kpszsu/posts/pfbid0xouRBGCch7kyn4J775vuBzhJPzGbhTxATn2YvNM3vEDLA47TbCJtvJswkbDEDRoYl,180.0
+2022-11-01 23:00:00,2022-11-02 01:00:00,Shahed-136/131,,east,13,12,kpszsu/posts/pfbid0283Mw4wfcVDMWsUBohsEc1mP3dKQPKAYa6NCs8Z7EzR3MD1aD6ADtu9WerPTwEDbGl,120.0
+2022-11-01 01:30:00,2022-11-01 03:00:00,Shahed-136/131,north-east,Poltava oblast,3,3,kpszsu/posts/pfbid02Wm6DzLJGCG5rSRJ7MKGNZg2p6bvk2dJu7frZVtVdtPKT1SYg2H6zcqaEUWe2E1Gkl,90.0
+2022-11-01 01:30:00,2022-11-01 03:00:00,Shahed-136/131,north-east,Dnipropetrovsk oblast,3,3,kpszsu/posts/pfbid02Wm6DzLJGCG5rSRJ7MKGNZg2p6bvk2dJu7frZVtVdtPKT1SYg2H6zcqaEUWe2E1Gkl,90.0
+2022-10-31 07:00:00,2022-10-31 09:00:00,X-101/X-555,Caspian Sea and Volgodonsk,Ukraine,50,44,kpszsu/posts/pfbid0mrAatxEGbfHxyZLcCXnn86UXN2qjbYCPMW1ND1t4JNRrHNXCK4hmc4GEAxPZbDgjl,120.0
+2022-10-26 22:00:00,2022-10-26 23:59:00,X-59,,Ukraine,1,1,kpszsu/posts/pfbid0Nz8sSvbeVf4bYVindHVRiEwhHxRKvc2EQisqUXWwm69n9p3uPhhUdCUjwFyL9GhWl,119.0
+2022-10-26 22:00:00,2022-10-26 23:59:00,Shahed-136/131,,Odesa oblast and Mykolaiv oblast and Vinnytsia oblast,20,19,kpszsu/posts/pfbid0Nz8sSvbeVf4bYVindHVRiEwhHxRKvc2EQisqUXWwm69n9p3uPhhUdCUjwFyL9GhWl,119.0
+2022-10-23 00:00:00,2022-10-23 02:00:00,Shahed-136/131,,Ukraine,16,16,kpszsu/posts/pfbid02CvjcUHYXZ6sScGpvSHfbU5up1TQHvt8ENce6nKzWYTSmzci3uWuKQzy1ovTd6q3vl,120.0
+2022-10-22 07:00:00,2022-10-22 11:00:00,X-101/X-555,Caspian Sea and Volgodonsk,Ukraine,17,13,kpszsu/posts/pfbid02eZKmuhuBEXeFQmBusqtMaBnmFfGXRhSrxf8vHQBTgRBghGSQJJMg7GeNcR86nfRl,240.0
+2022-10-22 07:00:00,2022-10-22 11:00:00,Kalibr,Black Sea,Ukraine,16,5,kpszsu/posts/pfbid02eZKmuhuBEXeFQmBusqtMaBnmFfGXRhSrxf8vHQBTgRBghGSQJJMg7GeNcR86nfRl,240.0
+2022-10-22 00:00:00,2022-10-22 02:00:00,Shahed-136/131,,Mykolaiv oblast,10,10,kpszsu/posts/pfbid02BZffKZ7hQv7LHnCLLDJKjfCzSMrqN4LxRusevhacdRrsHeRVJ1XMLvPJ3RY8iv93l,120.0
+2022-10-20 00:00:00,2022-10-20 02:00:00,Shahed-136/131,,Mykolaiv oblast,14,14,kpszsu/posts/pfbid0Q3QMCd1DJzN6whFeCPoLdL8EjpZosxdop7fA3zpAoLt3NKgMgHLdpfHUWWUZ7WB8l,120.0
+2022-10-19 12:00:00,2022-10-19 15:30:00,X-101/X-555,north-east,Ukraine,6,4,kpszsu/posts/pfbid033iCN7MDqAnqob6Bn8ZZdCcuFpyQKZd2abkcYf2ehbriqGBgvxuv6sAUA5pDiemWl,210.0
+2022-10-19 12:00:00,2022-10-19 15:30:00,Shahed-136/131,Belarus,Ukraine,10,10,kpszsu/posts/pfbid033iCN7MDqAnqob6Bn8ZZdCcuFpyQKZd2abkcYf2ehbriqGBgvxuv6sAUA5pDiemWl,210.0
+2022-10-17 03:30:00,2022-10-17 06:50:00,Unknown Missile,,Ukraine,3,3,kpszsu/posts/pfbid02TD6PcHZyPw52QZVet5zXMr5FQXaCw848ebsxPpLZLEENqzVfmt4CUBCopqBPsxyMl,200.0
+2022-10-17 03:30:00,2022-10-17 06:50:00,Shahed-136/131,,Odesa oblast and Mykolaiv oblast,15,15,kpszsu/posts/pfbid02TD6PcHZyPw52QZVet5zXMr5FQXaCw848ebsxPpLZLEENqzVfmt4CUBCopqBPsxyMl,200.0
+2022-10-15 00:00:00,2022-10-15 00:30:00,Shahed-136/131,,Ukraine,6,6,kpszsu/posts/pfbid0Qh5fhn2ZSJah78q33zVQNScY3CEVJ1t1kCy1H3JbLgL6j42CbP4ocGavGEuGgJxzl,30.0
+2022-10-13 16:00:00,2022-10-13 17:00:00,Kalibr,Black Sea,west,5,5,kpszsu/posts/pfbid02bcKsfy5x7GLiQaC81A6TjqKTkGJwBCLi6Mx9rv8AgDmgoMD5JeSMZUNr7Ua6Dmjl,60.0
+2022-10-11 15:00:00,2022-10-11 18:30:00,Shahed-136/131,Kursk oblast and Belarus,Kyiv oblast and north,13,13,kpszsu/posts/pfbid0Gv3heCb22oahBFUGnU5vsyhnfWtn6vN2zH1VfFA3bijoQjRDRRjHACA2PM2CmkaYl,210.0
+2022-10-11 07:00:00,2022-10-11 13:00:00,X-101/X-555 and Kalibr,Caspian Sea and Black Sea,Ukraine,28,20,kpszsu/posts/pfbid0mtZwKQqK2Pg7GuxCYqAvW1tB4e4H97kWAn1KYEifpWWLShDtKBpy3aB16vCaUo3il,360.0
+2022-10-11 07:00:00,2022-10-11 13:00:00,Shahed-136/131,,Ukraine,13,13,kpszsu/posts/pfbid0mtZwKQqK2Pg7GuxCYqAvW1tB4e4H97kWAn1KYEifpWWLShDtKBpy3aB16vCaUo3il,360.0
+2022-10-11 03:30:00,2022-10-11 05:30:00,Shahed-136/131,,Odesa oblast and Mykolaiv oblast,8,8,PvKPivden/posts/pfbid03SyNuH7Da7WtvK8ZG9WYvn4BZiMVibYFDHLPuQsZeQ4WXcGPJpNEu8TyKs62aTy2l,120.0
+2022-10-10 06:00:00,2022-10-10 14:00:00,X-101/X-555 and Kalibr,Caspian Sea and Black Sea,Ukraine,84,43,GeneralStaff.ua/posts/pfbid02p2RAc57tGyV8pCbsa3sTXemdBgNzoSZXvdpQYHoRSSMBKBDrbLjLGoVx9QLiC8nSl,480.0
+2022-10-10 06:00:00,2022-10-10 14:00:00,Unknown UAV,,Ukraine,11,3,GeneralStaff.ua/posts/pfbid02p2RAc57tGyV8pCbsa3sTXemdBgNzoSZXvdpQYHoRSSMBKBDrbLjLGoVx9QLiC8nSl,480.0
+2022-10-10 06:00:00,2022-10-10 14:00:00,Shahed-136/131,,Ukraine,13,10,GeneralStaff.ua/posts/pfbid02p2RAc57tGyV8pCbsa3sTXemdBgNzoSZXvdpQYHoRSSMBKBDrbLjLGoVx9QLiC8nSl,480.0
+2022-10-09 00:30:00,2022-10-09 08:00:00,X-59,Rostov oblast,Zaporizhzhia,2,1,kpszsu/posts/pfbid02gUoyyNCK9No3UQx89CZDs4rND5MTegiuRz4zaFomMbJMxJaaLDjafqrKxACxFdYMl,450.0
+2022-10-09 00:30:00,2022-10-09 08:00:00,X-22,Ryazan oblast,Zaporizhzhia,4,0,kpszsu/posts/pfbid02gUoyyNCK9No3UQx89CZDs4rND5MTegiuRz4zaFomMbJMxJaaLDjafqrKxACxFdYMl,450.0
+2022-10-09 00:30:00,2022-10-09 08:00:00,C-300,,Zaporizhzhia,16,0,kpszsu/posts/pfbid02gUoyyNCK9No3UQx89CZDs4rND5MTegiuRz4zaFomMbJMxJaaLDjafqrKxACxFdYMl,450.0
+2022-10-07 20:00:00,2022-10-07 21:30:00,Shahed-136/131,,Odesa oblast and Mykolaiv oblast,3,3,kpszsu/posts/pfbid026hagTWFWC9imHVLqQ4uBwCiVUDX7LWyrF1TudccwrPEYh5v2nX935ebj4afpGwXxl,90.0
+2022-10-06 15:00:00,2022-10-06 20:00:00,Shahed-136/131,,south,3,3,kpszsu/posts/pfbid0rxEnbpvxAg8d8J5NW9ABgghPzcbv8B8djBVzqg1QRFzXKwBSENc5SWsMsUJTWuPLl,300.0
+2022-10-06 15:00:00,2022-10-06 20:00:00,Orlan-10,,south,1,1,kpszsu/posts/pfbid0rxEnbpvxAg8d8J5NW9ABgghPzcbv8B8djBVzqg1QRFzXKwBSENc5SWsMsUJTWuPLl,300.0
+2022-10-06 15:00:00,2022-10-06 20:00:00,Mohajer-6,,south,1,1,kpszsu/posts/pfbid0rxEnbpvxAg8d8J5NW9ABgghPzcbv8B8djBVzqg1QRFzXKwBSENc5SWsMsUJTWuPLl,300.0
+2022-10-06 09:00:00,2022-10-06 11:30:00,Shahed-136/131,,Mykolaiv oblast,2,2,kpszsu/posts/pfbid02YPkepucHoDQbmGfZURk8ScqNyMGEgm7ZoSW4Bhw9Y2AzgkmJrg3xy2BUV1WVpUFMl,150.0
+2022-10-06 09:00:00,2022-10-06 11:30:00,Mohajer-6,,Mykolaiv oblast,1,1,kpszsu/posts/pfbid02YPkepucHoDQbmGfZURk8ScqNyMGEgm7ZoSW4Bhw9Y2AzgkmJrg3xy2BUV1WVpUFMl,150.0
+2022-10-02 00:00:00,2022-10-02 02:00:00,Shahed-136/131,,Mykolaiv oblast,7,5,kpszsu/posts/pfbid021aK2TqryAuB8gGrDYMTv3R8XiubgLAPeZiiRQJakECpBcJan1rbHcRpSEjf5ewCwl,120.0
+2022-09-29 23:00:00,2022-09-29 23:00:00,Shahed-136/131,,Odesa oblast and Mykolaiv oblast,7,5,kpszsu/posts/pfbid021aK2TqryAuB8gGrDYMTv3R8XiubgLAPeZiiRQJakECpBcJan1rbHcRpSEjf5ewCwl,59.0
